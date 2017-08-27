@@ -20,7 +20,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21399,
+		"ips": 21397,
 		"common": 5
 	},
 	{
@@ -170,13 +170,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484138,
+		"ips": 9484136,
 		"common": 31
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34187,
+		"ips": 34188,
 		"common": 4
 	},
 	{
@@ -370,6 +370,12 @@
 		"category": "reputation",
 		"ips": 17102,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 183,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
