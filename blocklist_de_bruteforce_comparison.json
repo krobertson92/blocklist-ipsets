@@ -56,26 +56,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29886,
-		"common": 394
+		"ips": 29684,
+		"common": 393
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8924,
-		"common": 394
+		"ips": 8922,
+		"common": 393
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 141,
+		"ips": 140,
 		"common": 5
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21747,
-		"common": 114
+		"ips": 21691,
+		"common": 113
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -225,7 +225,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 264261,
-		"common": 124
+		"common": 123
 	},
 	{
 		"name": "firehol_level1",
@@ -236,8 +236,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36145,
-		"common": 394
+		"ips": 35944,
+		"common": 393
 	},
 	{
 		"name": "firehol_level3",
@@ -248,13 +248,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484536,
+		"ips": 9484482,
 		"common": 122
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34189,
+		"ips": 34188,
 		"common": 37
 	},
 	{
@@ -393,7 +393,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1575626,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "nullsecure",
@@ -416,7 +416,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5030,
+		"ips": 5029,
 		"common": 2
 	},
 	{
@@ -447,13 +447,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "spamhaus_drop",
@@ -465,13 +465,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 152906,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 257259,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -489,7 +489,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 368238,
-		"common": 10
+		"common": 9
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -501,18 +501,12 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 154003,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
 		"common": 12
-	},
-	{
-		"name": "urandomusto_http",
-		"category": "attacks",
-		"ips": 208,
-		"common": 1
 	}
 ]
