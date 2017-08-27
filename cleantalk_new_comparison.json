@@ -2,37 +2,43 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29554,
-		"common": 11
+		"ips": 29408,
+		"common": 12
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8924,
+		"ips": 8923,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_bots",
+		"category": "attacks",
+		"ips": 114,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 390,
+		"ips": 386,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 539,
+		"ips": 540,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2135,
+		"ips": 2122,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14672,
+		"ips": 14594,
 		"common": 1
 	},
 	{
@@ -392,26 +398,26 @@
 	{
 		"name": "proxylists",
 		"category": "anonymizers",
-		"ips": 1173,
-		"common": 8
+		"ips": 1263,
+		"common": 15
 	},
 	{
 		"name": "proxylists_1d",
 		"category": "anonymizers",
-		"ips": 2696,
-		"common": 23
+		"ips": 2798,
+		"common": 27
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
-		"ips": 6184,
-		"common": 23
+		"ips": 6219,
+		"common": 27
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
-		"ips": 4545,
-		"common": 23
+		"ips": 4576,
+		"common": 27
 	},
 	{
 		"name": "proxyrss",
@@ -440,13 +446,13 @@
 	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 243,
+		"ips": 249,
 		"common": 1
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2367,
+		"ips": 2373,
 		"common": 1
 	},
 	{
