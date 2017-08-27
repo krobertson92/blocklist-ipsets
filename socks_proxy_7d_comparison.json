@@ -120,21 +120,27 @@
 		"common": 2
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 46,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 934,
+		"ips": 931,
 		"common": 10
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14362,
-		"common": 458
+		"ips": 14345,
+		"common": 459
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4028,
+		"ips": 4021,
 		"common": 81
 	},
 	{
@@ -153,13 +159,13 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 121029,
-		"common": 3307
+		"common": 3304
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 66532,
-		"common": 2384
+		"common": 2382
 	},
 	{
 		"name": "cleantalk_new_1d",
@@ -171,13 +177,13 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 19972,
-		"common": 187
+		"common": 186
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
 		"ips": 4916,
-		"common": 79
+		"common": 78
 	},
 	{
 		"name": "cleantalk_updated",
@@ -195,13 +201,13 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 158685,
-		"common": 3338
+		"common": 3335
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 85307,
-		"common": 2399
+		"common": 2398
 	},
 	{
 		"name": "cta_cryptowall",
@@ -225,7 +231,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 559231,
-		"common": 4008
+		"common": 4006
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -296,20 +302,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37680,
+		"ips": 37681,
 		"common": 489
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 264298,
-		"common": 3395
+		"common": 3393
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40089,
-		"common": 4812
+		"ips": 40171,
+		"common": 4810
 	},
 	{
 		"name": "firehol_level1",
@@ -320,26 +326,26 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36910,
-		"common": 752
+		"ips": 36145,
+		"common": 751
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118063,
+		"ips": 118064,
 		"common": 204
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484618,
-		"common": 463
+		"ips": 9484601,
+		"common": 464
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27682,
-		"common": 4812
+		"ips": 27689,
+		"common": 4810
 	},
 	{
 		"name": "firehol_webserver",
@@ -352,12 +358,6 @@
 		"category": "attacks",
 		"ips": 1096012,
 		"common": 12
-	},
-	{
-		"name": "greensnow",
-		"category": "attacks",
-		"ips": 2065,
-		"common": 1
 	},
 	{
 		"name": "haley_ssh",
@@ -812,14 +812,14 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1453,
-		"common": 1453
+		"ips": 1457,
+		"common": 1457
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8769,
-		"common": 4849
+		"ips": 8771,
+		"common": 4847
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -867,37 +867,37 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1174,
+		"ips": 1184,
 		"common": 15
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 5972,
+		"ips": 5977,
 		"common": 35
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3048,
+		"ips": 3057,
 		"common": 26
 	},
 	{
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 152906,
-		"common": 1692
+		"common": 1693
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 257259,
-		"common": 1787
+		"common": 1788
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -915,7 +915,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 368238,
-		"common": 1922
+		"common": 1923
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -927,7 +927,7 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 154003,
-		"common": 1693
+		"common": 1694
 	},
 	{
 		"name": "stopforumspam_toxic",
