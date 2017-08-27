@@ -81,7 +81,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 28890,
-		"common": 1141
+		"common": 1137
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -129,7 +129,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 13209,
-		"common": 628
+		"common": 624
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -351,13 +351,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18000,
-		"common": 403
+		"common": 401
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16240,
-		"common": 292
+		"common": 291
 	},
 	{
 		"name": "dataplane_vncrfb",
@@ -416,7 +416,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 56790,
+		"ips": 56791,
 		"common": 453
 	},
 	{
@@ -513,7 +513,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 36780,
-		"common": 1239
+		"common": 1235
 	},
 	{
 		"name": "firehol_level3",
@@ -524,8 +524,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9483993,
-		"common": 21257
+		"ips": 9483984,
+		"common": 21247
 	},
 	{
 		"name": "firehol_proxies",
@@ -573,7 +573,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 22883,
-		"common": 172
+		"common": 171
 	},
 	{
 		"name": "hphosts_ats",
@@ -747,7 +747,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138950935,
-		"common": 1048
+		"common": 1049
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -867,7 +867,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1529339,
-		"common": 2122
+		"common": 2123
 	},
 	{
 		"name": "malwaredomainlist",
@@ -890,8 +890,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 12061,
-		"common": 472
+		"ips": 12395,
+		"common": 481
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1239,7 +1239,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 2440
+		"common": 2439
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1407,7 +1407,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 17102,
-		"common": 85
+		"common": 86
 	},
 	{
 		"name": "urandomusto_ftp",
