@@ -146,25 +146,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7761,
+		"ips": 7790,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9293,
+		"ips": 9290,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30414,
+		"ips": 30417,
 		"common": 5
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14422,
+		"ips": 14425,
 		"common": 1
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22131,
+		"ips": 22113,
 		"common": 693
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1145,
+		"ips": 1143,
 		"common": 8
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "dronebl_worms_bots",
 		"category": "malware",
-		"ips": 133150,
+		"ips": 133149,
 		"common": 78
 	},
 	{
@@ -729,7 +729,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652302080,
-		"common": 677
+		"common": 679
 	},
 	{
 		"name": "firehol_level2",
@@ -740,13 +740,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118062,
+		"ips": 118059,
 		"common": 3477
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484927,
+		"ips": 9484909,
 		"common": 30653
 	},
 	{
@@ -759,7 +759,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740599,
-		"common": 2679
+		"common": 2681
 	},
 	{
 		"name": "fullbogons",
@@ -807,7 +807,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26956,
-		"common": 194
+		"common": 196
 	},
 	{
 		"name": "hphosts_exp",
@@ -885,7 +885,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656158627,
-		"common": 1649
+		"common": 1650
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -915,7 +915,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227917160,
-		"common": 368
+		"common": 369
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -1005,7 +1005,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762686424,
-		"common": 687
+		"common": 688
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1160,8 +1160,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10565,
-		"common": 8
+		"ips": 10500,
+		"common": 7
 	},
 	{
 		"name": "nullsecure",
@@ -1257,13 +1257,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 2000
+		"common": 2001
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5028,
-		"common": 166
+		"common": 168
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1272,16 +1272,22 @@
 		"common": 4
 	},
 	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
+	},
+	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 139,
-		"common": 139
+		"ips": 141,
+		"common": 141
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 323,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "ri_connect_proxies",
