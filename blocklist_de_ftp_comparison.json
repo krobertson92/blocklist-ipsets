@@ -44,14 +44,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29000,
-		"common": 545
+		"ips": 28999,
+		"common": 543
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 21271,
-		"common": 27
+		"common": 28
 	},
 	{
 		"name": "bruteforceblocker",
@@ -153,13 +153,13 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18000,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
 		"ips": 16240,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "dragon_http",
@@ -207,7 +207,7 @@
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1142,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "et_spamhaus",
@@ -243,7 +243,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 36671,
-		"common": 545
+		"common": 543
 	},
 	{
 		"name": "firehol_level3",
@@ -255,7 +255,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9484000,
-		"common": 46
+		"common": 47
 	},
 	{
 		"name": "firehol_proxies",
@@ -291,7 +291,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 22875,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_emd",
@@ -362,7 +362,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762686424,
+		"ips": 762691464,
 		"common": 8
 	},
 	{
@@ -399,12 +399,12 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1529339,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10603,
+		"ips": 10690,
 		"common": 68
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5027,
+		"ips": 5026,
 		"common": 1
 	},
 	{
@@ -591,7 +591,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 17102,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "urandomusto_ftp",
