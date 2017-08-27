@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 136
+		"common": 135
 	},
 	{
 		"name": "atlas_attacks_30d",
@@ -104,37 +104,37 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7787,
+		"ips": 7789,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9292,
+		"ips": 9304,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30440,
+		"ips": 30446,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14414,
+		"ips": 14408,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30117,
-		"common": 42
+		"ips": 29885,
+		"common": 41
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8930,
+		"ips": 8920,
 		"common": 7
 	},
 	{
@@ -146,26 +146,26 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2173,
+		"ips": 2154,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15075,
+		"ips": 14922,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 137,
+		"ips": 136,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13606,
-		"common": 22
+		"ips": 13539,
+		"common": 21
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -237,7 +237,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14403,
-		"common": 130
+		"common": 128
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -405,13 +405,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 27904,
-		"common": 5632
+		"common": 5376
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 14336,
-		"common": 5632
+		"common": 5376
 	},
 	{
 		"name": "et_block",
@@ -458,7 +458,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40085,
+		"ips": 40091,
 		"common": 2
 	},
 	{
@@ -470,14 +470,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37394,
-		"common": 5632
+		"ips": 36910,
+		"common": 5376
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 118063,
-		"common": 5632
+		"common": 5376
 	},
 	{
 		"name": "firehol_level4",
@@ -488,7 +488,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27678,
+		"ips": 27684,
 		"common": 2
 	},
 	{
@@ -519,7 +519,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2065,
-		"common": 44
+		"common": 43
 	},
 	{
 		"name": "haley_ssh",
@@ -531,7 +531,7 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 14897,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "hphosts_emd",
@@ -573,7 +573,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 14263,
-		"common": 114
+		"common": 112
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -636,12 +636,6 @@
 		"common": 2
 	},
 	{
-		"name": "iblocklist_yoyo_adservers",
-		"category": "organizations",
-		"ips": 11724,
-		"common": 1
-	},
-	{
 		"name": "ipblacklistcloud_top",
 		"category": "abuse",
 		"ips": 232,
@@ -699,7 +693,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2759,
-		"common": 97
+		"common": 96
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -717,7 +711,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2110,
-		"common": 49
+		"common": 48
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -728,7 +722,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5029,
+		"ips": 5030,
 		"common": 1
 	},
 	{
@@ -873,7 +867,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 17102,
-		"common": 329
+		"common": 327
 	},
 	{
 		"name": "urandomusto_dns",
@@ -915,7 +909,7 @@
 		"name": "urandomusto_telnet",
 		"category": "attacks",
 		"ips": 346,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
@@ -940,11 +934,5 @@
 		"category": "attacks",
 		"ips": 31388,
 		"common": 72
-	},
-	{
-		"name": "yoyo_adservers",
-		"category": "organizations",
-		"ips": 12332,
-		"common": 1
 	}
 ]
