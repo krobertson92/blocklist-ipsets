@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21280,
+		"ips": 21271,
 		"common": 9
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484010,
+		"ips": 9484000,
 		"common": 103
 	},
 	{
@@ -382,6 +382,12 @@
 		"category": "reputation",
 		"ips": 138950935,
 		"common": 33
+	},
+	{
+		"name": "iblocklist_onion_router",
+		"category": "anonymizers",
+		"ips": 6529,
+		"common": 4
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -794,7 +800,7 @@
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 279,
+		"ips": 278,
 		"common": 3
 	}
 ]
