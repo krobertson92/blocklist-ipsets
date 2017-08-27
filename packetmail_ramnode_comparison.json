@@ -92,32 +92,32 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29649,
-		"common": 160
+		"ips": 29531,
+		"common": 159
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8921,
+		"ips": 8920,
 		"common": 35
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2143,
+		"ips": 2132,
 		"common": 16
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14723,
+		"ips": 14665,
 		"common": 22
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13493,
-		"common": 103
+		"ips": 13436,
+		"common": 102
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21669,
+		"ips": 21587,
 		"common": 8
 	},
 	{
@@ -458,14 +458,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652302094,
+		"ips": 652294926,
 		"common": 65
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 35908,
-		"common": 251
+		"ips": 35791,
+		"common": 250
 	},
 	{
 		"name": "firehol_level3",
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484445,
+		"ips": 9484364,
 		"common": 34
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "fullbogons",
 		"category": "unrouteable",
-		"ips": 626931336,
+		"ips": 626924168,
 		"common": 5
 	},
 	{
@@ -688,6 +688,12 @@
 		"category": "spam",
 		"ips": 1575626,
 		"common": 66
+	},
+	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 10546,
+		"common": 1
 	},
 	{
 		"name": "nullsecure",
@@ -914,7 +920,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 163,
+		"ips": 166,
 		"common": 3
 	},
 	{
@@ -962,7 +968,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 142,
+		"ips": 145,
 		"common": 12
 	},
 	{
