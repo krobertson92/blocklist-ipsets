@@ -578,7 +578,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34187,
+		"ips": 34186,
 		"common": 14
 	},
 	{
@@ -848,7 +848,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10834,
+		"ips": 10832,
 		"common": 17
 	},
 	{
@@ -1220,14 +1220,20 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 183,
+		"ips": 210,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 265,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 428,
-		"common": 2
+		"ips": 405,
+		"common": 1
 	},
 	{
 		"name": "uscert_hidden_cobra",

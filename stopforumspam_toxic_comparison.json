@@ -608,7 +608,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34187,
+		"ips": 34186,
 		"common": 98
 	},
 	{
@@ -842,7 +842,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10834,
+		"ips": 10832,
 		"common": 4
 	},
 	{
@@ -1200,16 +1200,22 @@
 		"common": 1
 	},
 	{
-		"name": "urandomusto_rdp",
+		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 161,
+		"ips": 210,
 		"common": 1
 	},
 	{
-		"name": "urandomusto_ssh",
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 226,
+		"common": 13
+	},
+	{
+		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 297,
-		"common": 3
+		"ips": 166,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
