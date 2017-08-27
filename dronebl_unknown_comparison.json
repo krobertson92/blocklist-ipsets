@@ -1,8 +1,20 @@
 [
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 29019,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 14324,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158737,
+		"ips": 158732,
 		"common": 1
 	},
 	{
@@ -20,25 +32,31 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 263466,
+		"ips": 263457,
 		"common": 2
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40060,
+		"ips": 40096,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 36935,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9483998,
+		"ips": 9484001,
 		"common": 2
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27740,
+		"ips": 27776,
 		"common": 1
 	},
 	{

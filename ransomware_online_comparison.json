@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21255,
+		"ips": 21258,
 		"common": 2
 	},
 	{
@@ -86,13 +86,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121042,
+		"ips": 121034,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158737,
+		"ips": 158732,
 		"common": 1
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 263466,
+		"ips": 263457,
 		"common": 1
 	},
 	{
@@ -140,20 +140,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9483998,
-		"common": 11
+		"ips": 9484001,
+		"common": 12
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34187,
-		"common": 137
+		"ips": 34188,
+		"common": 138
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740970,
-		"common": 109
+		"common": 110
 	},
 	{
 		"name": "hphosts_ats",
@@ -164,8 +164,8 @@
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 26956,
-		"common": 106
+		"ips": 26972,
+		"common": 107
 	},
 	{
 		"name": "hphosts_exp",
@@ -234,6 +234,12 @@
 		"common": 1
 	},
 	{
+		"name": "iblocklist_webexploit",
+		"category": "reputation",
+		"ips": 15418,
+		"common": 1
+	},
+	{
 		"name": "iw_spamlist",
 		"category": "spam",
 		"ips": 943,
@@ -278,8 +284,8 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5026,
-		"common": 137
+		"ips": 5028,
+		"common": 138
 	},
 	{
 		"name": "ransomware_locky_c2",
