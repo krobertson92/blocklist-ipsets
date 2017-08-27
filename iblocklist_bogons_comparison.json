@@ -146,8 +146,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 486,
-		"common": 25
+		"ips": 519,
+		"common": 28
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -206,25 +206,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7799,
+		"ips": 7797,
 		"common": 303
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9286,
+		"ips": 9285,
 		"common": 329
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30421,
+		"ips": 30418,
 		"common": 621
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14411,
+		"ips": 14416,
 		"common": 397
 	},
 	{
@@ -326,8 +326,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6633,
-		"common": 321
+		"ips": 6645,
+		"common": 326
 	},
 	{
 		"name": "bogons",
@@ -336,22 +336,28 @@
 		"common": 559088635
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 60,
+		"common": 4
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 944,
+		"ips": 939,
 		"common": 71
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14358,
+		"ips": 14368,
 		"common": 1182
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4023,
-		"common": 354
+		"ips": 4020,
+		"common": 351
 	},
 	{
 		"name": "botvrij_dst",
@@ -800,7 +806,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37635,
+		"ips": 37632,
 		"common": 3165
 	},
 	{
@@ -812,7 +818,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40155,
+		"ips": 40097,
 		"common": 2041
 	},
 	{
@@ -824,7 +830,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37508,
+		"ips": 37500,
 		"common": 994
 	},
 	{
@@ -836,7 +842,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484683,
+		"ips": 9484693,
 		"common": 57548
 	},
 	{
@@ -884,7 +890,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2087,
+		"ips": 2077,
 		"common": 109
 	},
 	{
