@@ -177,7 +177,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
-		"common": 396
+		"common": 395
 	},
 	{
 		"name": "blueliv_crimeserver_recent",
@@ -228,39 +228,51 @@
 		"common": 245
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2414,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30542,
+		"ips": 30597,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121047,
+		"ips": 121052,
 		"common": 26
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66552,
+		"ips": 66545,
 		"common": 18
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 35758,
+		"ips": 35842,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158728,
+		"ips": 158741,
 		"common": 26
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 85275,
+		"ips": 85279,
 		"common": 18
 	},
 	{
@@ -404,20 +416,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37806,
+		"ips": 37886,
 		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 263463,
+		"ips": 263466,
 		"common": 32
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652294673,
-		"common": 341
+		"common": 340
 	},
 	{
 		"name": "firehol_level2",
@@ -440,14 +452,14 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34187,
-		"common": 165
+		"ips": 34186,
+		"common": 164
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740599,
-		"common": 3937
+		"common": 3936
 	},
 	{
 		"name": "fullbogons",
@@ -483,7 +495,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26956,
-		"common": 3581
+		"common": 3580
 	},
 	{
 		"name": "hphosts_exp",
@@ -776,20 +788,20 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 138,
-		"common": 138
+		"ips": 137,
+		"common": 137
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 323,
-		"common": 276
+		"common": 275
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
 		"category": "malware",
 		"ips": 14,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "shunlist",
