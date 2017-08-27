@@ -56,19 +56,19 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9332,
+		"ips": 9355,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30466,
+		"ips": 30467,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14422,
+		"ips": 14434,
 		"common": 1
 	},
 	{
@@ -344,7 +344,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559230,
+		"ips": 559229,
 		"common": 96
 	},
 	{
@@ -470,7 +470,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37636,
+		"ips": 37670,
 		"common": 287
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34189,
+		"ips": 34188,
 		"common": 90
 	},
 	{
@@ -908,7 +908,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5030,
+		"ips": 5028,
 		"common": 2
 	},
 	{
@@ -1022,7 +1022,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5091,
+		"ips": 5162,
 		"common": 250
 	},
 	{
@@ -1114,6 +1114,12 @@
 		"category": "attacks",
 		"ips": 166,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 208,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",

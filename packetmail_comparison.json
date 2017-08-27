@@ -308,7 +308,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559230,
+		"ips": 559229,
 		"common": 27
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37636,
+		"ips": 37670,
 		"common": 117
 	},
 	{
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34189,
+		"ips": 34188,
 		"common": 12
 	},
 	{
@@ -842,7 +842,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5091,
+		"ips": 5162,
 		"common": 19
 	},
 	{
@@ -942,9 +942,21 @@
 		"common": 20
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 208,
+		"common": 17
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 236,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 27,
+		"ips": 28,
 		"common": 3
 	},
 	{
@@ -956,8 +968,8 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 21,
-		"common": 5
+		"ips": 24,
+		"common": 6
 	},
 	{
 		"name": "urandomusto_ssh",

@@ -284,7 +284,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559230,
+		"ips": 559229,
 		"common": 155
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37636,
+		"ips": 37670,
 		"common": 916
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34189,
+		"ips": 34188,
 		"common": 81
 	},
 	{
@@ -998,8 +998,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5091,
-		"common": 561
+		"ips": 5162,
+		"common": 562
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1086,6 +1086,12 @@
 		"common": 4
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 208,
+		"common": 1
+	},
+	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 31388,
@@ -1100,7 +1106,7 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 59,
+		"ips": 60,
 		"common": 3
 	},
 	{
@@ -1112,13 +1118,13 @@
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 488,
+		"ips": 489,
 		"common": 8
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 277,
+		"ips": 279,
 		"common": 7
 	}
 ]

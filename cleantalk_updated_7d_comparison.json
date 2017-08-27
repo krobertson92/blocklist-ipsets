@@ -80,25 +80,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7813,
-		"common": 5
+		"ips": 7801,
+		"common": 4
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9332,
+		"ips": 9355,
 		"common": 5
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30466,
+		"ips": 30467,
 		"common": 26
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14422,
+		"ips": 14434,
 		"common": 17
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559230,
+		"ips": 559229,
 		"common": 15950
 	},
 	{
@@ -578,8 +578,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37636,
-		"common": 35497
+		"ips": 37670,
+		"common": 35508
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -626,7 +626,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34189,
+		"ips": 34188,
 		"common": 329
 	},
 	{
@@ -1286,7 +1286,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5030,
+		"ips": 5028,
 		"common": 18
 	},
 	{
@@ -1496,8 +1496,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5091,
-		"common": 3274
+		"ips": 5162,
+		"common": 3318
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1590,6 +1590,18 @@
 		"common": 52
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 208,
+		"common": 6
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 236,
+		"common": 3
+	},
+	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
 		"ips": 141,
@@ -1634,26 +1646,26 @@
 	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 59,
-		"common": 39
+		"ips": 60,
+		"common": 41
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
 		"ips": 144,
-		"common": 98
+		"common": 100
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 488,
-		"common": 260
+		"ips": 489,
+		"common": 262
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 277,
-		"common": 191
+		"ips": 279,
+		"common": 192
 	},
 	{
 		"name": "yoyo_adservers",

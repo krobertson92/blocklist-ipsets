@@ -152,25 +152,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7813,
+		"ips": 7801,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9332,
+		"ips": 9355,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30466,
+		"ips": 30467,
 		"common": 13
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14422,
+		"ips": 14434,
 		"common": 6
 	},
 	{
@@ -524,7 +524,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559230,
+		"ips": 559229,
 		"common": 1412
 	},
 	{
@@ -692,7 +692,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37636,
+		"ips": 37670,
 		"common": 778
 	},
 	{
@@ -734,7 +734,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34189,
+		"ips": 34188,
 		"common": 90
 	},
 	{
@@ -1322,7 +1322,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5030,
+		"ips": 5028,
 		"common": 10
 	},
 	{
@@ -1508,8 +1508,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5091,
-		"common": 90
+		"ips": 5162,
+		"common": 91
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1610,19 +1610,19 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 165,
-		"common": 149
+		"ips": 208,
+		"common": 134
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 154,
-		"common": 154
+		"ips": 236,
+		"common": 122
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 27,
+		"ips": 28,
 		"common": 5
 	},
 	{
@@ -1634,7 +1634,7 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 21,
+		"ips": 24,
 		"common": 1
 	},
 	{
@@ -1680,21 +1680,27 @@
 		"common": 2
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 60,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
 		"ips": 144,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 488,
+		"ips": 489,
 		"common": 16
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 277,
+		"ips": 279,
 		"common": 10
 	},
 	{

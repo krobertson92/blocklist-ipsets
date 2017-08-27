@@ -182,7 +182,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559230,
+		"ips": 559229,
 		"common": 2476
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37636,
+		"ips": 37670,
 		"common": 1472
 	},
 	{
@@ -842,8 +842,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5091,
-		"common": 283
+		"ips": 5162,
+		"common": 287
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -900,27 +900,33 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 236,
+		"common": 3
+	},
+	{
 		"name": "xroxy",
 		"category": "anonymizers",
-		"ips": 59,
-		"common": 59
+		"ips": 60,
+		"common": 55
 	},
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
 		"ips": 144,
-		"common": 144
+		"common": 139
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 488,
-		"common": 237
+		"ips": 489,
+		"common": 236
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 277,
+		"ips": 279,
 		"common": 184
 	}
 ]
