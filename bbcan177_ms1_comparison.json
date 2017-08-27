@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40004,
+		"ips": 40007,
 		"common": 21
 	},
 	{
@@ -560,7 +560,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27584,
+		"ips": 27587,
 		"common": 6
 	},
 	{
@@ -1194,9 +1194,15 @@
 		"common": 35
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 199,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 116,
+		"ips": 120,
 		"common": 1
 	},
 	{

@@ -170,8 +170,8 @@
 	{
 		"name": "bambenek_tinba",
 		"category": "malware",
-		"ips": 3,
-		"common": 2
+		"ips": 1,
+		"common": 1
 	},
 	{
 		"name": "bbcan177_ms1",
@@ -944,7 +944,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40004,
+		"ips": 40007,
 		"common": 5408
 	},
 	{
@@ -974,7 +974,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27584,
+		"ips": 27587,
 		"common": 2657
 	},
 	{
@@ -1833,24 +1833,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1469,
+		"ips": 1470,
 		"common": 134
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8783,
+		"ips": 8787,
 		"common": 477
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4876,
+		"ips": 4880,
 		"common": 312
 	},
 	{
@@ -1929,7 +1929,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 21
+		"common": 24
 	},
 	{
 		"name": "sslproxies_1d",
@@ -2066,14 +2066,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 214,
-		"common": 102
+		"ips": 251,
+		"common": 80
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 208,
-		"common": 13
+		"ips": 199,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -2084,7 +2084,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 116,
+		"ips": 120,
 		"common": 13
 	},
 	{
@@ -2102,8 +2102,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 296,
-		"common": 4
+		"ips": 288,
+		"common": 7
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 402,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
