@@ -158,8 +158,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22550,
-		"common": 152
+		"ips": 22503,
+		"common": 149
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -350,7 +350,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 445,
+		"ips": 448,
 		"common": 4
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40072,
+		"ips": 40073,
 		"common": 62
 	},
 	{
@@ -638,19 +638,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9485357,
-		"common": 884
+		"ips": 9485310,
+		"common": 881
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27619,
+		"ips": 27620,
 		"common": 57
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34186,
+		"ips": 34187,
 		"common": 270
 	},
 	{
@@ -878,7 +878,7 @@
 	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
-		"ips": 11775,
+		"ips": 11724,
 		"common": 31
 	},
 	{
@@ -926,8 +926,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16857,
-		"common": 53
+		"ips": 17061,
+		"common": 56
 	},
 	{
 		"name": "nt_malware_http",
@@ -1118,7 +1118,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5028,
+		"ips": 5029,
 		"common": 20
 	},
 	{
@@ -1176,21 +1176,27 @@
 		"common": 8
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1473,
+		"ips": 1469,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8789,
+		"ips": 8790,
 		"common": 29
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4877,
+		"ips": 4873,
 		"common": 14
 	},
 	{
@@ -1340,7 +1346,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 170,
+		"ips": 168,
 		"common": 1
 	},
 	{
@@ -1364,7 +1370,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 128,
+		"ips": 133,
 		"common": 5
 	},
 	{
