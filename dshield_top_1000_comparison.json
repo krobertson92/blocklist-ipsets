@@ -30,6 +30,12 @@
 		"common": 16
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 22978,
+		"common": 2
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14403,
@@ -110,7 +116,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 264216,
+		"ips": 264222,
 		"common": 1
 	},
 	{
@@ -122,7 +128,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40486,
+		"ips": 40482,
 		"common": 17
 	},
 	{
@@ -134,8 +140,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9472510,
-		"common": 1
+		"ips": 9485771,
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
@@ -230,7 +236,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 15916,
+		"ips": 16035,
 		"common": 1
 	},
 	{

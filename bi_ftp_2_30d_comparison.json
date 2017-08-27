@@ -60,6 +60,12 @@
 		"common": 10
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 22978,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14403,
@@ -74,37 +80,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30927,
+		"ips": 30631,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121156,
+		"ips": 121157,
 		"common": 21
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66503,
+		"ips": 66500,
 		"common": 16
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 35993,
+		"ips": 35637,
 		"common": 10
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158889,
+		"ips": 158863,
 		"common": 21
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 85228,
+		"ips": 85207,
 		"common": 16
 	},
 	{
@@ -164,19 +170,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37523,
+		"ips": 37203,
 		"common": 10
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 264216,
+		"ips": 264222,
 		"common": 21
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40486,
+		"ips": 40482,
 		"common": 20
 	},
 	{
@@ -184,6 +190,12 @@
 		"category": "attacks",
 		"ips": 118118,
 		"common": 10
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9485771,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -194,8 +206,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 2115,
-		"common": 14
+		"ips": 2110,
+		"common": 15
 	},
 	{
 		"name": "hphosts_psh",
