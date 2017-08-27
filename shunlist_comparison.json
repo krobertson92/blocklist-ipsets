@@ -74,25 +74,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31761,
+		"ips": 31539,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8956,
+		"ips": 8953,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 419,
+		"ips": 415,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13552,
+		"ips": 13513,
 		"common": 1
 	},
 	{
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40005,
+		"ips": 40006,
 		"common": 1
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39833,
+		"ips": 39612,
 		"common": 6
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27620,
+		"ips": 27621,
 		"common": 1
 	},
 	{
@@ -494,7 +494,7 @@
 	{
 		"name": "iblocklist_spider",
 		"category": "reputation",
-		"ips": 821127,
+		"ips": 831190,
 		"common": 1
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5029,
+		"ips": 5028,
 		"common": 2
 	},
 	{
@@ -646,6 +646,12 @@
 		"category": "abuse",
 		"ips": 367720,
 		"common": 36
+	},
+	{
+		"name": "stopforumspam_7d",
+		"category": "abuse",
+		"ips": 19226,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_90d",

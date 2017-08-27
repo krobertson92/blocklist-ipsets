@@ -158,14 +158,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31761,
-		"common": 2246
+		"ips": 31539,
+		"common": 2215
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8956,
-		"common": 65
+		"ips": 8953,
+		"common": 64
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -176,38 +176,38 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 419,
-		"common": 31
+		"ips": 415,
+		"common": 30
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 534,
-		"common": 45
+		"ips": 531,
+		"common": 46
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2520,
-		"common": 98
+		"ips": 2518,
+		"common": 97
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16760,
-		"common": 602
+		"ips": 16580,
+		"common": 581
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 126,
+		"ips": 129,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13552,
-		"common": 1523
+		"ips": 13513,
+		"common": 1513
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -770,7 +770,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40005,
+		"ips": 40006,
 		"common": 3130
 	},
 	{
@@ -782,8 +782,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39833,
-		"common": 2307
+		"ips": 39612,
+		"common": 2276
 	},
 	{
 		"name": "firehol_level3",
@@ -800,7 +800,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27620,
+		"ips": 27621,
 		"common": 2253
 	},
 	{
@@ -1142,8 +1142,8 @@
 	{
 		"name": "iblocklist_spider",
 		"category": "reputation",
-		"ips": 821127,
-		"common": 12640
+		"ips": 831190,
+		"common": 12648
 	},
 	{
 		"name": "iblocklist_spyware",
@@ -1238,8 +1238,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 17061,
-		"common": 1842
+		"ips": 17235,
+		"common": 1850
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1490,7 +1490,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5029,
+		"ips": 5028,
 		"common": 39
 	},
 	{
@@ -1581,7 +1581,7 @@
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 1469,
-		"common": 232
+		"common": 231
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1592,7 +1592,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4873,
+		"ips": 4868,
 		"common": 770
 	},
 	{
@@ -1662,9 +1662,15 @@
 		"common": 131
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 99,
+		"common": 2
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1163,
+		"ips": 1157,
 		"common": 33
 	},
 	{
@@ -1676,7 +1682,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3011,
+		"ips": 3009,
 		"common": 140
 	},
 	{
@@ -1712,8 +1718,8 @@
 	{
 		"name": "stopforumspam_7d",
 		"category": "abuse",
-		"ips": 19394,
-		"common": 1612
+		"ips": 19226,
+		"common": 1608
 	},
 	{
 		"name": "stopforumspam_90d",
