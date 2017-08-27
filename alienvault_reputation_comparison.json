@@ -80,8 +80,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 101,
-		"common": 14
+		"ips": 109,
+		"common": 16
 	},
 	{
 		"name": "bambenek_c2",
@@ -98,7 +98,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 119,
+		"ips": 111,
 		"common": 11
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22264,
+		"ips": 22255,
 		"common": 12
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559233,
+		"ips": 559234,
 		"common": 48
 	},
 	{
@@ -746,7 +746,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9485066,
+		"ips": 9485063,
 		"common": 236
 	},
 	{
@@ -1430,14 +1430,8 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 196,
-		"common": 24
-	},
-	{
-		"name": "urandomusto_mailer",
-		"category": "spam",
-		"ips": 205,
-		"common": 1
+		"ips": 163,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -1448,7 +1442,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 124,
+		"ips": 127,
 		"common": 13
 	},
 	{
@@ -1460,14 +1454,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 418,
-		"common": 4
+		"ips": 433,
+		"common": 7
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 410,
-		"common": 32
+		"ips": 415,
+		"common": 31
 	},
 	{
 		"name": "urandomusto_unspecified",
