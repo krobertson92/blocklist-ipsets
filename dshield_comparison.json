@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 31309,
+		"ips": 31279,
 		"common": 44
 	},
 	{
@@ -138,15 +138,21 @@
 		"common": 10
 	},
 	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 545,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2511,
-		"common": 8
+		"ips": 2508,
+		"common": 9
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16353,
+		"ips": 16310,
 		"common": 11
 	},
 	{
@@ -158,13 +164,13 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13505,
-		"common": 22
+		"ips": 13512,
+		"common": 21
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22343,
+		"ips": 22268,
 		"common": 7
 	},
 	{
@@ -368,7 +374,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559232,
+		"ips": 559233,
 		"common": 9
 	},
 	{
@@ -464,7 +470,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39384,
+		"ips": 39354,
 		"common": 5120
 	},
 	{
@@ -476,7 +482,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9485143,
+		"ips": 9485070,
 		"common": 71
 	},
 	{
@@ -704,7 +710,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5028,
+		"ips": 5029,
 		"common": 1
 	},
 	{
