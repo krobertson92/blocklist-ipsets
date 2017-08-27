@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 206,
+		"ips": 208,
 		"common": 1
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39930,
+		"ips": 39929,
 		"common": 2142
 	},
 	{
@@ -284,7 +284,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27539,
+		"ips": 27538,
 		"common": 2148
 	},
 	{
@@ -759,13 +759,13 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 99,
-		"common": 29
+		"common": 31
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 1166,
-		"common": 211
+		"common": 213
 	},
 	{
 		"name": "sslproxies_30d",
@@ -776,8 +776,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3002,
-		"common": 343
+		"ips": 3005,
+		"common": 345
 	},
 	{
 		"name": "stopforumspam",
@@ -838,6 +838,12 @@
 		"category": "reputation",
 		"ips": 17102,
 		"common": 3
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 175,
+		"common": 1
 	},
 	{
 		"name": "xroxy",

@@ -176,7 +176,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39930,
+		"ips": 39929,
 		"common": 137
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27539,
+		"ips": 27538,
 		"common": 138
 	},
 	{
@@ -585,7 +585,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 99,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "sslproxies_1d",
@@ -602,7 +602,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3002,
+		"ips": 3005,
 		"common": 14
 	},
 	{
@@ -651,6 +651,12 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 8932,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 175,
 		"common": 1
 	},
 	{

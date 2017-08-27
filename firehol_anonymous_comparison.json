@@ -32,8 +32,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 206,
-		"common": 55
+		"ips": 208,
+		"common": 57
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -381,7 +381,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 559233,
-		"common": 19627
+		"common": 19625
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -572,8 +572,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27539,
-		"common": 27527
+		"ips": 27538,
+		"common": 27526
 	},
 	{
 		"name": "firehol_webclient",
@@ -663,7 +663,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656158627,
-		"common": 2007
+		"common": 2008
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -783,7 +783,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346610643,
-		"common": 2969
+		"common": 2967
 	},
 	{
 		"name": "iblocklist_level3",
@@ -1322,8 +1322,8 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3002,
-		"common": 2995
+		"ips": 3005,
+		"common": 2998
 	},
 	{
 		"name": "stopforumspam",
@@ -1434,16 +1434,22 @@
 		"common": 10
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 175,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 180,
+		"ips": 215,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 256,
-		"common": 3
+		"ips": 432,
+		"common": 10
 	},
 	{
 		"name": "voipbl",

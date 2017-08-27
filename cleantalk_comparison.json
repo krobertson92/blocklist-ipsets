@@ -26,8 +26,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 206,
-		"common": 7
+		"ips": 208,
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -410,7 +410,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39930,
+		"ips": 39929,
 		"common": 375
 	},
 	{
@@ -440,7 +440,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27539,
+		"ips": 27538,
 		"common": 278
 	},
 	{
@@ -1023,7 +1023,7 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 99,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "sslproxies_1d",
@@ -1040,7 +1040,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3002,
+		"ips": 3005,
 		"common": 117
 	},
 	{
@@ -1144,6 +1144,12 @@
 		"category": "spam",
 		"ips": 10,
 		"common": 2
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 432,
+		"common": 3
 	},
 	{
 		"name": "voipbl",

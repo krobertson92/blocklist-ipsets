@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 206,
+		"ips": 208,
 		"common": 3
 	},
 	{
@@ -578,7 +578,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 39930,
+		"ips": 39929,
 		"common": 45
 	},
 	{
@@ -608,7 +608,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27539,
+		"ips": 27538,
 		"common": 40
 	},
 	{
@@ -1212,12 +1212,6 @@
 		"common": 3
 	},
 	{
-		"name": "sslproxies",
-		"category": "anonymizers",
-		"ips": 99,
-		"common": 1
-	},
-	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
 		"ips": 1166,
@@ -1232,7 +1226,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3002,
+		"ips": 3005,
 		"common": 4
 	},
 	{
@@ -1340,20 +1334,20 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 180,
+		"ips": 215,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 256,
-		"common": 2
+		"ips": 432,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 418,
-		"common": 5
+		"ips": 381,
+		"common": 4
 	},
 	{
 		"name": "uscert_hidden_cobra",
