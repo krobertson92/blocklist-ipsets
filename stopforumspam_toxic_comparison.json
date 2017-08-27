@@ -122,7 +122,7 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7790,
+		"ips": 7802,
 		"common": 8
 	},
 	{
@@ -140,14 +140,14 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14425,
+		"ips": 14418,
 		"common": 9
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30790,
-		"common": 3388
+		"ips": 30672,
+		"common": 3389
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -164,25 +164,25 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 413,
+		"ips": 412,
 		"common": 13
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 553,
+		"ips": 547,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2507,
+		"ips": 2497,
 		"common": 16
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15764,
+		"ips": 15674,
 		"common": 3346
 	},
 	{
@@ -194,8 +194,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13568,
-		"common": 14
+		"ips": 13547,
+		"common": 15
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -206,7 +206,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22113,
+		"ips": 21975,
 		"common": 64
 	},
 	{
@@ -476,7 +476,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559234,
+		"ips": 559233,
 		"common": 170
 	},
 	{
@@ -590,8 +590,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 38838,
-		"common": 3395
+		"ips": 38722,
+		"common": 3396
 	},
 	{
 		"name": "firehol_level3",
@@ -602,7 +602,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484909,
+		"ips": 9484777,
 		"common": 1874
 	},
 	{
@@ -686,13 +686,13 @@
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
-		"ips": 1744,
+		"ips": 1747,
 		"common": 6
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 31062,
+		"ips": 30957,
 		"common": 34
 	},
 	{
@@ -1034,7 +1034,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8790,
+		"ips": 8789,
 		"common": 20
 	},
 	{
@@ -1203,6 +1203,12 @@
 		"name": "urandomusto_rdp",
 		"category": "attacks",
 		"ips": 134,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 410,
 		"common": 1
 	},
 	{
