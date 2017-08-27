@@ -50,20 +50,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30959,
+		"ips": 30716,
 		"common": 299
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 554,
+		"ips": 551,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 134,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13574,
-		"common": 298
+		"ips": 13511,
+		"common": 297
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -74,8 +80,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22210,
-		"common": 52
+		"ips": 22149,
+		"common": 51
 	},
 	{
 		"name": "bm_tor",
@@ -188,7 +194,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 254,
+		"ips": 260,
 		"common": 2
 	},
 	{
@@ -326,7 +332,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40105,
+		"ips": 40131,
 		"common": 4
 	},
 	{
@@ -338,7 +344,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 39005,
+		"ips": 38763,
 		"common": 302
 	},
 	{
@@ -350,8 +356,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9485015,
-		"common": 110
+		"ips": 9484958,
+		"common": 109
 	},
 	{
 		"name": "firehol_webserver",
@@ -662,7 +668,7 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 169,
+		"ips": 166,
 		"common": 2
 	},
 	{
