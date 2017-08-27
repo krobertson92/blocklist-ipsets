@@ -80,31 +80,25 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6645,
+		"ips": 6634,
 		"common": 1
-	},
-	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 39,
-		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 943,
+		"ips": 934,
 		"common": 62
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14365,
+		"ips": 14362,
 		"common": 459
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4020,
+		"ips": 4028,
 		"common": 210
 	},
 	{
@@ -194,7 +188,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6641,
+		"ips": 6630,
 		"common": 1
 	},
 	{
@@ -266,19 +260,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37640,
+		"ips": 37630,
 		"common": 1441
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 264272,
-		"common": 2005
+		"ips": 264287,
+		"common": 2006
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40091,
+		"ips": 40086,
 		"common": 2603
 	},
 	{
@@ -290,7 +284,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37396,
+		"ips": 37394,
 		"common": 138
 	},
 	{
@@ -302,7 +296,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484585,
+		"ips": 9484582,
 		"common": 479
 	},
 	{
@@ -482,8 +476,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10433,
-		"common": 102
+		"ips": 10382,
+		"common": 104
 	},
 	{
 		"name": "nullsecure",
@@ -501,25 +495,25 @@
 		"name": "php_commenters",
 		"category": "spam",
 		"ips": 50,
-		"common": 5
+		"common": 10
 	},
 	{
 		"name": "php_commenters_1d",
 		"category": "spam",
-		"ips": 100,
-		"common": 8
+		"ips": 98,
+		"common": 15
 	},
 	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 884,
-		"common": 61
+		"ips": 904,
+		"common": 69
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 311,
-		"common": 31
+		"ips": 319,
+		"common": 39
 	},
 	{
 		"name": "php_dictionary",

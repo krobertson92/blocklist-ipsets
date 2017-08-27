@@ -104,25 +104,25 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6645,
+		"ips": 6634,
 		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 943,
-		"common": 13
+		"ips": 934,
+		"common": 12
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14365,
+		"ips": 14362,
 		"common": 177
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4020,
+		"ips": 4028,
 		"common": 46
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6641,
+		"ips": 6630,
 		"common": 1
 	},
 	{
@@ -314,19 +314,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37640,
+		"ips": 37630,
 		"common": 488
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 264272,
+		"ips": 264287,
 		"common": 2015
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40091,
+		"ips": 40086,
 		"common": 6710
 	},
 	{
@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37396,
+		"ips": 37394,
 		"common": 8
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484585,
+		"ips": 9484582,
 		"common": 188
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10433,
+		"ips": 10382,
 		"common": 8
 	},
 	{
@@ -558,16 +558,28 @@
 		"common": 1
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 98,
+		"common": 1
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 884,
-		"common": 23
+		"ips": 904,
+		"common": 24
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
-		"ips": 311,
-		"common": 6
+		"ips": 319,
+		"common": 7
 	},
 	{
 		"name": "php_dictionary_1d",
