@@ -86,19 +86,19 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7838,
-		"common": 236
+		"ips": 7830,
+		"common": 238
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9380,
+		"ips": 9379,
 		"common": 305
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30470,
+		"ips": 30465,
 		"common": 959
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21464,
+		"ips": 21453,
 		"common": 176
 	},
 	{
@@ -656,7 +656,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484242,
+		"ips": 9484231,
 		"common": 740
 	},
 	{
@@ -1046,7 +1046,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5030,
+		"ips": 5028,
 		"common": 2
 	},
 	{
@@ -1278,10 +1278,16 @@
 		"common": 66
 	},
 	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 426,
+		"common": 4
+	},
+	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 343,
-		"common": 1
+		"ips": 422,
+		"common": 2
 	},
 	{
 		"name": "voipbl",
