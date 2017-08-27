@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22448,
+		"ips": 22392,
 		"common": 57
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9485259,
+		"ips": 9485204,
 		"common": 670
 	},
 	{
@@ -1074,6 +1074,18 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 196,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 205,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_spam",
 		"category": "spam",
 		"ips": 10,
@@ -1082,8 +1094,8 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 288,
-		"common": 5
+		"ips": 418,
+		"common": 39
 	},
 	{
 		"name": "urandomusto_unspecified",
