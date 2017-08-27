@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40075,
+		"ips": 40077,
 		"common": 1
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27630,
+		"ips": 27632,
 		"common": 1
 	},
 	{
@@ -225,7 +225,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740667,
-		"common": 32
+		"common": 34
 	},
 	{
 		"name": "fullbogons",
@@ -258,16 +258,10 @@
 		"common": 160
 	},
 	{
-		"name": "iblocklist_isp_att",
-		"category": "organizations",
-		"ips": 55845128,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "iblocklist_isp_suddenlink",
@@ -297,12 +291,6 @@
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
 		"ips": 6559,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_org_blizzard",
-		"category": "organizations",
-		"ips": 16795139,
 		"common": 1
 	},
 	{
@@ -381,7 +369,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 31
+		"common": 33
 	},
 	{
 		"name": "sblam",
@@ -393,7 +381,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 199
+		"common": 198
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -405,7 +393,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -471,7 +459,7 @@
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "tor_exits",
@@ -495,6 +483,12 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1109,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 17102,
 		"common": 1
 	},
 	{
