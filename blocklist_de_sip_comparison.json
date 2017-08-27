@@ -12,12 +12,6 @@
 		"common": 1
 	},
 	{
-		"name": "bds_atif",
-		"category": "reputation",
-		"ips": 4975,
-		"common": 1
-	},
-	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 736,
@@ -44,14 +38,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29436,
-		"common": 98
+		"ips": 29252,
+		"common": 96
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 140,
-		"common": 5
+		"ips": 138,
+		"common": 3
 	},
 	{
 		"name": "bruteforceblocker",
@@ -63,7 +57,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14403,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "cleantalk_30d",
@@ -75,12 +69,6 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 158728,
-		"common": 2
-	},
-	{
-		"name": "cybercrime",
-		"category": "malware",
-		"ips": 30464,
 		"common": 1
 	},
 	{
@@ -120,12 +108,6 @@
 		"common": 3
 	},
 	{
-		"name": "dronebl_worms_bots",
-		"category": "malware",
-		"ips": 133169,
-		"common": 1
-	},
-	{
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
@@ -134,26 +116,26 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 5888,
+		"ips": 6144,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 27904,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 14080,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24580703,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "et_botcc",
@@ -174,64 +156,46 @@
 		"common": 1
 	},
 	{
-		"name": "et_spamhaus",
-		"category": "attacks",
-		"ips": 24574464,
-		"common": 1
-	},
-	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 263463,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652294929,
-		"common": 2
+		"ips": 652294673,
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36590,
-		"common": 98
+		"ips": 36661,
+		"common": 96
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 118037,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484222,
-		"common": 11
-	},
-	{
-		"name": "firehol_webclient",
-		"category": "malware",
-		"ips": 34187,
-		"common": 1
+		"ips": 9484161,
+		"common": 10
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740599,
-		"common": 36
+		"common": 35
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1096012,
 		"common": 32
-	},
-	{
-		"name": "gpf_comics",
-		"category": "abuse",
-		"ips": 3058,
-		"common": 1
 	},
 	{
 		"name": "greensnow",
@@ -249,13 +213,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656158627,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 14263,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "iblocklist_isp_aol",
@@ -279,7 +243,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138950935,
-		"common": 22
+		"common": 21
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -294,12 +258,6 @@
 		"common": 1
 	},
 	{
-		"name": "iblocklist_spamhaus_drop",
-		"category": "attacks",
-		"ips": 24638720,
-		"common": 1
-	},
-	{
 		"name": "iblocklist_spider",
 		"category": "reputation",
 		"ips": 831190,
@@ -308,7 +266,7 @@
 	{
 		"name": "iblocklist_spyware",
 		"category": "reputation",
-		"ips": 338757,
+		"ips": 338705,
 		"common": 3
 	},
 	{
@@ -321,7 +279,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 33
+		"common": 32
 	},
 	{
 		"name": "sorbs_dul",
@@ -336,22 +294,10 @@
 		"common": 4
 	},
 	{
-		"name": "spamhaus_drop",
-		"category": "reputation",
-		"ips": 24639744,
-		"common": 1
-	},
-	{
-		"name": "stopforumspam_365d",
-		"category": "abuse",
-		"ips": 368238,
-		"common": 1
-	},
-	{
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "taichung",

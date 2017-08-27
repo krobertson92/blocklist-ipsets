@@ -122,61 +122,55 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29436,
-		"common": 583
+		"ips": 29252,
+		"common": 581
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8922,
+		"ips": 8915,
 		"common": 527
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 383,
+		"ips": 378,
 		"common": 14
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 542,
+		"ips": 541,
 		"common": 21
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2117,
-		"common": 25
+		"ips": 2080,
+		"common": 24
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14548,
-		"common": 540
-	},
-	{
-		"name": "blocklist_de_sip",
-		"category": "attacks",
-		"ips": 138,
-		"common": 1
+		"ips": 14446,
+		"common": 539
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13445,
+		"ips": 13375,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 140,
-		"common": 19
+		"ips": 138,
+		"common": 18
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21440,
+		"ips": 21431,
 		"common": 58
 	},
 	{
@@ -450,6 +444,18 @@
 		"common": 270
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 256
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 6144,
+		"common": 256
+	},
+	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 27904,
@@ -572,14 +578,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652294929,
+		"ips": 652294673,
 		"common": 24571137
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36590,
-		"common": 594
+		"ips": 36661,
+		"common": 847
 	},
 	{
 		"name": "firehol_level3",
@@ -590,7 +596,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484222,
+		"ips": 9484161,
 		"common": 5210535
 	},
 	{
@@ -806,7 +812,7 @@
 	{
 		"name": "iblocklist_spyware",
 		"category": "reputation",
-		"ips": 338757,
+		"ips": 338705,
 		"common": 1064
 	},
 	{
@@ -854,7 +860,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10630,
+		"ips": 10663,
 		"common": 2
 	},
 	{
