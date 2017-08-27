@@ -32,13 +32,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 29019,
+		"ips": 28885,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8896,
+		"ips": 8885,
 		"common": 1
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 263462,
+		"ips": 263473,
 		"common": 1
 	},
 	{
@@ -232,6 +232,12 @@
 		"category": "reputation",
 		"ips": 34512264,
 		"common": 13
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 1
 	},
 	{
 		"name": "sorbs_recent_spam",
