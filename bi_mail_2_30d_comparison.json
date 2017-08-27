@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21271,
+		"ips": 21266,
 		"common": 8
 	},
 	{
@@ -182,19 +182,19 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2389,
-		"common": 2
+		"ips": 2396,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30819,
-		"common": 47
+		"ips": 30876,
+		"common": 46
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121052,
+		"ips": 121050,
 		"common": 113
 	},
 	{
@@ -207,13 +207,13 @@
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 36131,
-		"common": 47
+		"ips": 36171,
+		"common": 46
 	},
 	{
 		"name": "cleantalk_updated_30d",
@@ -224,7 +224,7 @@
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 85219,
+		"ips": 85232,
 		"common": 85
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 56791,
+		"ips": 56790,
 		"common": 129
 	},
 	{
@@ -356,13 +356,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38349,
+		"ips": 38421,
 		"common": 50
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 263512,
+		"ips": 263518,
 		"common": 132
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484000,
+		"ips": 9483996,
 		"common": 65
 	},
 	{
@@ -926,7 +926,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1162,
+		"ips": 1151,
 		"common": 1
 	},
 	{
@@ -938,7 +938,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3045,
+		"ips": 3044,
 		"common": 2
 	},
 	{
@@ -1052,8 +1052,14 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 226,
-		"common": 23
+		"ips": 232,
+		"common": 6
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 265,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",
