@@ -584,7 +584,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40210,
+		"ips": 40213,
 		"common": 80
 	},
 	{
@@ -602,8 +602,8 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118064,
-		"common": 1669
+		"ips": 118049,
+		"common": 1671
 	},
 	{
 		"name": "firehol_level4",
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27699,
+		"ips": 27702,
 		"common": 35
 	},
 	{
@@ -1246,5 +1246,11 @@
 		"category": "attacks",
 		"ips": 31388,
 		"common": 194
+	},
+	{
+		"name": "vxvault",
+		"category": "malware",
+		"ips": 66,
+		"common": 2
 	}
 ]
