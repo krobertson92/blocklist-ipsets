@@ -62,14 +62,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 30059,
-		"common": 2169
+		"ips": 30117,
+		"common": 2173
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 15061,
-		"common": 2169
+		"ips": 15075,
+		"common": 2173
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -80,7 +80,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21783,
+		"ips": 21778,
 		"common": 182
 	},
 	{
@@ -368,8 +368,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 37339,
-		"common": 2169
+		"ips": 37396,
+		"common": 2173
 	},
 	{
 		"name": "firehol_level3",
@@ -380,7 +380,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484590,
+		"ips": 9484585,
 		"common": 196
 	},
 	{
@@ -392,20 +392,20 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34186,
+		"ips": 34189,
 		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740599,
-		"common": 68
+		"common": 67
 	},
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1096012,
-		"common": 20
+		"common": 19
 	},
 	{
 		"name": "gpf_comics",
@@ -501,7 +501,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346610643,
-		"common": 71
+		"common": 72
 	},
 	{
 		"name": "iblocklist_level3",
@@ -723,7 +723,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 59
+		"common": 58
 	},
 	{
 		"name": "ri_connect_proxies_30d",
@@ -783,7 +783,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 79
+		"common": 80
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -904,6 +904,12 @@
 		"category": "attacks",
 		"ips": 164,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 153,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
