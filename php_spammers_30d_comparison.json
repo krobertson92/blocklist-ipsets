@@ -14,8 +14,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 205,
-		"common": 8
+		"ips": 202,
+		"common": 7
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -50,7 +50,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30396,
+		"ips": 30400,
 		"common": 2
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23273,
+		"ips": 23219,
 		"common": 25
 	},
 	{
@@ -248,7 +248,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559233,
+		"ips": 559232,
 		"common": 581
 	},
 	{
@@ -314,13 +314,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118130,
+		"ips": 118118,
 		"common": 75
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9486069,
+		"ips": 9486016,
 		"common": 178
 	},
 	{
@@ -806,7 +806,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 8927,
+		"ips": 8929,
 		"common": 39
 	},
 	{
@@ -996,9 +996,15 @@
 		"common": 5
 	},
 	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 207,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 432,
+		"ips": 427,
 		"common": 1
 	},
 	{

@@ -14,25 +14,25 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 205,
+		"ips": 202,
 		"common": 2
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 4780,
-		"common": 61
+		"common": 60
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3026,
-		"common": 51
+		"common": 52
 	},
 	{
 		"name": "bi_http_2_30d",
 		"category": "attacks",
-		"ips": 108,
+		"ips": 109,
 		"common": 6
 	},
 	{
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23273,
+		"ips": 23219,
 		"common": 1
 	},
 	{
@@ -81,7 +81,7 @@
 		"name": "cleantalk_1d",
 		"category": "abuse",
 		"ips": 30896,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "cleantalk_30d",
@@ -93,13 +93,13 @@
 		"name": "cleantalk_7d",
 		"category": "abuse",
 		"ips": 66524,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 36014,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "cleantalk_updated_30d",
@@ -111,7 +111,7 @@
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 85287,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -152,7 +152,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559233,
+		"ips": 559232,
 		"common": 1
 	},
 	{
@@ -171,7 +171,7 @@
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 37516,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -188,13 +188,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118130,
+		"ips": 118118,
 		"common": 10
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9486069,
+		"ips": 9486016,
 		"common": 1
 	},
 	{
@@ -258,6 +258,12 @@
 		"common": 17
 	},
 	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 1575626,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -290,7 +296,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 8927,
+		"ips": 8929,
 		"common": 2
 	},
 	{
@@ -309,13 +315,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 545338,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "stopforumspam",
@@ -374,13 +380,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 107,
-		"common": 1
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 381,
+		"ips": 111,
 		"common": 1
 	},
 	{

@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 205,
+		"ips": 202,
 		"common": 1
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"name": "bi_http_2_30d",
 		"category": "attacks",
-		"ips": 108,
+		"ips": 109,
 		"common": 15
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559233,
+		"ips": 559232,
 		"common": 4
 	},
 	{
@@ -243,7 +243,7 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 53
+		"common": 51
 	},
 	{
 		"name": "dshield_1d",
@@ -303,7 +303,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652302063,
-		"common": 56
+		"common": 54
 	},
 	{
 		"name": "firehol_level2",
@@ -314,13 +314,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118130,
+		"ips": 118118,
 		"common": 254
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9486069,
+		"ips": 9486016,
 		"common": 6
 	},
 	{
@@ -482,7 +482,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 8927,
+		"ips": 8929,
 		"common": 2
 	},
 	{
@@ -582,22 +582,22 @@
 		"common": 3
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 188,
+		"common": 3
+	},
+	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 107,
+		"ips": 111,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 16,
+		"ips": 19,
 		"common": 2
-	},
-	{
-		"name": "urandomusto_telnet",
-		"category": "attacks",
-		"ips": 381,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",

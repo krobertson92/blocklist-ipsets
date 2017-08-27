@@ -20,8 +20,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 205,
-		"common": 2
+		"ips": 202,
+		"common": 1
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -40,6 +40,12 @@
 		"category": "attacks",
 		"ips": 61,
 		"common": 2
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 109,
+		"common": 1
 	},
 	{
 		"name": "bi_mail_2_30d",
@@ -62,7 +68,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30396,
+		"ips": 30400,
 		"common": 1
 	},
 	{
@@ -110,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23273,
+		"ips": 23219,
 		"common": 12
 	},
 	{
@@ -254,7 +260,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559233,
+		"ips": 559232,
 		"common": 7
 	},
 	{
@@ -344,13 +350,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118130,
+		"ips": 118118,
 		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9486069,
+		"ips": 9486016,
 		"common": 21
 	},
 	{
@@ -602,7 +608,7 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 8927,
+		"ips": 8929,
 		"common": 1
 	},
 	{
@@ -742,12 +748,6 @@
 		"category": "reputation",
 		"ips": 17102,
 		"common": 19
-	},
-	{
-		"name": "urandomusto_ssh",
-		"category": "attacks",
-		"ips": 432,
-		"common": 1
 	},
 	{
 		"name": "urandomusto_unspecified",

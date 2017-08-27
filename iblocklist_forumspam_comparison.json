@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 205,
+		"ips": 202,
 		"common": 1
 	},
 	{
@@ -32,7 +32,7 @@
 	{
 		"name": "bi_http_2_30d",
 		"category": "attacks",
-		"ips": 108,
+		"ips": 109,
 		"common": 1
 	},
 	{
@@ -200,13 +200,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118130,
+		"ips": 118118,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9486069,
+		"ips": 9486016,
 		"common": 3
 	},
 	{
@@ -495,6 +495,18 @@
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
 		"ips": 1116,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 188,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 207,
 		"common": 1
 	},
 	{

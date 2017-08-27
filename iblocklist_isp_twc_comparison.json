@@ -68,25 +68,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7686,
-		"common": 76
+		"ips": 7718,
+		"common": 72
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9268,
+		"ips": 9275,
 		"common": 105
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30396,
+		"ips": 30400,
 		"common": 286
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14409,
+		"ips": 14408,
 		"common": 165
 	},
 	{
@@ -128,7 +128,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 23273,
+		"ips": 23219,
 		"common": 56
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559233,
+		"ips": 559232,
 		"common": 856
 	},
 	{
@@ -518,13 +518,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118130,
+		"ips": 118118,
 		"common": 62
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9486069,
+		"ips": 9486016,
 		"common": 223
 	},
 	{
@@ -840,6 +840,12 @@
 		"common": 2
 	},
 	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 8929,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
@@ -1024,6 +1030,12 @@
 		"category": "reputation",
 		"ips": 17102,
 		"common": 22
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 427,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
