@@ -68,8 +68,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11679,
-		"common": 23
+		"ips": 21347,
+		"common": 66
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -129,7 +129,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 121031,
-		"common": 1733
+		"common": 1732
 	},
 	{
 		"name": "cleantalk_7d",
@@ -153,7 +153,7 @@
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
 		"ips": 19901,
-		"common": 561
+		"common": 560
 	},
 	{
 		"name": "cleantalk_new_7d",
@@ -177,7 +177,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 158709,
-		"common": 1741
+		"common": 1740
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -225,7 +225,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 559228,
-		"common": 2149
+		"common": 2147
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -272,20 +272,20 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38099,
-		"common": 1013
+		"ips": 38145,
+		"common": 1014
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 263460,
-		"common": 1797
+		"common": 1796
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40094,
-		"common": 3045
+		"ips": 40093,
+		"common": 3043
 	},
 	{
 		"name": "firehol_level2",
@@ -296,20 +296,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 117784,
+		"ips": 117773,
 		"common": 138
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9474958,
-		"common": 408
+		"ips": 9484098,
+		"common": 443
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27707,
-		"common": 3045
+		"ips": 27706,
+		"common": 3043
 	},
 	{
 		"name": "firehol_webclient",
@@ -321,7 +321,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740599,
-		"common": 273
+		"common": 272
 	},
 	{
 		"name": "gofferje_sip",
@@ -470,8 +470,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 10843,
-		"common": 54
+		"ips": 10834,
+		"common": 52
 	},
 	{
 		"name": "nullsecure",
@@ -591,19 +591,19 @@
 		"name": "proxylists_1d",
 		"category": "anonymizers",
 		"ips": 2813,
-		"common": 563
+		"common": 562
 	},
 	{
 		"name": "proxylists_30d",
 		"category": "anonymizers",
 		"ips": 6222,
-		"common": 872
+		"common": 871
 	},
 	{
 		"name": "proxylists_7d",
 		"category": "anonymizers",
 		"ips": 4576,
-		"common": 838
+		"common": 837
 	},
 	{
 		"name": "proxyrss",
@@ -621,13 +621,13 @@
 		"name": "proxyrss_30d",
 		"category": "anonymizers",
 		"ips": 5441,
-		"common": 872
+		"common": 871
 	},
 	{
 		"name": "proxyrss_7d",
 		"category": "anonymizers",
 		"ips": 4078,
-		"common": 837
+		"common": 836
 	},
 	{
 		"name": "proxyspy",
@@ -645,13 +645,13 @@
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
 		"ips": 6720,
-		"common": 43
+		"common": 42
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
 		"ips": 2828,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "proxz",
@@ -681,7 +681,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 141
+		"common": 140
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -740,19 +740,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1408,
+		"ips": 1412,
 		"common": 16
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8762,
+		"ips": 8761,
 		"common": 33
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4814,
+		"ips": 4817,
 		"common": 26
 	},
 	{
@@ -800,14 +800,14 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1170,
-		"common": 1170
+		"ips": 1171,
+		"common": 1171
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
 		"ips": 5995,
-		"common": 3052
+		"common": 3050
 	},
 	{
 		"name": "stopforumspam",
@@ -824,8 +824,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 5317,
-		"common": 212
+		"ips": 5568,
+		"common": 215
 	},
 	{
 		"name": "stopforumspam_30d",
