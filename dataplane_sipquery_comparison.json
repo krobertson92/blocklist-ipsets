@@ -74,55 +74,49 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28928,
+		"ips": 29079,
 		"common": 44
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8913,
+		"ips": 8914,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 526,
+		"ips": 542,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2026,
+		"ips": 2118,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14269,
+		"ips": 14351,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_sip",
 		"category": "attacks",
-		"ips": 139,
+		"ips": 140,
 		"common": 19
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13233,
+		"ips": 13287,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
 		"ips": 139,
-		"common": 1
-	},
-	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 21377,
 		"common": 1
 	},
 	{
@@ -296,7 +290,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38053,
+		"ips": 38058,
 		"common": 3
 	},
 	{
@@ -308,26 +302,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652294674,
+		"ips": 652294675,
 		"common": 55
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36351,
-		"common": 127
+		"ips": 36511,
+		"common": 130
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 117782,
+		"ips": 117784,
 		"common": 255
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484117,
-		"common": 7
+		"ips": 9474958,
+		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
@@ -344,8 +338,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1623,
-		"common": 51
+		"ips": 1632,
+		"common": 53
 	},
 	{
 		"name": "haley_ssh",
