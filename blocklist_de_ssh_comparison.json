@@ -92,8 +92,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21899,
-		"common": 638
+		"ips": 21896,
+		"common": 636
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -464,7 +464,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652302095,
+		"ips": 652302103,
 		"common": 28
 	},
 	{
@@ -476,14 +476,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 118064,
+		"ips": 118063,
 		"common": 429
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9484686,
-		"common": 1269
+		"ips": 9484683,
+		"common": 1267
 	},
 	{
 		"name": "firehol_webclient",
@@ -914,7 +914,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8923,
+		"ips": 8922,
 		"common": 17
 	},
 	{
@@ -966,10 +966,16 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 206,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 410,
-		"common": 288
+		"ips": 377,
+		"common": 256
 	},
 	{
 		"name": "urandomusto_unspecified",

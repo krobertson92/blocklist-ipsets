@@ -1,38 +1,86 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 32352,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 30210,
-		"common": 153
+		"common": 151
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
 		"ips": 8931,
-		"common": 153
+		"common": 151
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 15219,
-		"common": 153
+		"common": 151
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 14403,
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 37508,
-		"common": 153
+		"common": 152
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 118063,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34740599,
+		"common": 1
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 2087,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 14263,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762686424,
-		"common": 153
+		"common": 151
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 17102,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 162,
-		"common": 149
+		"ips": 206,
+		"common": 133
 	}
 ]
