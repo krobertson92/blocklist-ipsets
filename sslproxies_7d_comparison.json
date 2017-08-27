@@ -44,8 +44,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32252,
-		"common": 29
+		"ips": 32207,
+		"common": 30
 	},
 	{
 		"name": "blocklist_de_imap",
@@ -68,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22892,
+		"ips": 22872,
 		"common": 55
 	},
 	{
@@ -296,8 +296,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40309,
-		"common": 29
+		"ips": 40264,
+		"common": 30
 	},
 	{
 		"name": "firehol_level3",
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9485693,
+		"ips": 9485674,
 		"common": 441
 	},
 	{
@@ -476,8 +476,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16150,
-		"common": 39
+		"ips": 16315,
+		"common": 38
 	},
 	{
 		"name": "nullsecure",
@@ -879,6 +879,12 @@
 		"name": "urandomusto_ftp",
 		"category": "attacks",
 		"ips": 171,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 208,
 		"common": 1
 	},
 	{

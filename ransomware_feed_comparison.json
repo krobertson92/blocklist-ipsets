@@ -110,7 +110,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32252,
+		"ips": 32207,
 		"common": 4
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 22892,
+		"ips": 22872,
 		"common": 29
 	},
 	{
@@ -434,7 +434,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40309,
+		"ips": 40264,
 		"common": 18
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9485693,
+		"ips": 9485674,
 		"common": 322
 	},
 	{
@@ -752,7 +752,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16150,
+		"ips": 16315,
 		"common": 3
 	},
 	{
@@ -916,6 +916,12 @@
 		"category": "malware",
 		"ips": 6383,
 		"common": 151
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 296,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

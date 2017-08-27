@@ -38,7 +38,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32252,
+		"ips": 32207,
 		"common": 1
 	},
 	{
@@ -51,7 +51,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14403,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -68,20 +68,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40309,
+		"ips": 40264,
 		"common": 6
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 118118,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740667,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "greensnow",
@@ -99,7 +99,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 14263,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_edu",
@@ -138,6 +138,12 @@
 		"common": 8
 	},
 	{
+		"name": "packetmail",
+		"category": "reputation",
+		"ips": 2749,
+		"common": 1
+	},
+	{
 		"name": "packetmail_carisirt",
 		"category": "reputation",
 		"ips": 550,
@@ -153,7 +159,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 2
+		"common": 3
+	},
+	{
+		"name": "taichung",
+		"category": "attacks",
+		"ips": 11201,
+		"common": 1
 	},
 	{
 		"name": "threatcrowd",
@@ -165,7 +177,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 17102,
-		"common": 15
+		"common": 16
 	},
 	{
 		"name": "urandomusto_dns",
