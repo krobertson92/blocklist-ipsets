@@ -48,6 +48,12 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 21332,
+		"common": 1
+	},
+	{
 		"name": "blueliv_crimeserver_last",
 		"category": "attacks",
 		"ips": 110,
@@ -194,8 +200,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395413,
-		"common": 22
+		"ips": 9395500,
+		"common": 23
 	},
 	{
 		"name": "firehol_webclient",
@@ -380,7 +386,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5030,
+		"ips": 5028,
 		"common": 27
 	},
 	{
