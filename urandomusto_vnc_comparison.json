@@ -20,7 +20,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20913,
+		"ips": 20903,
 		"common": 1
 	},
 	{
@@ -33,7 +33,7 @@
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 448,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "dshield",
@@ -68,7 +68,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42221,
+		"ips": 42330,
 		"common": 2
 	},
 	{
@@ -80,13 +80,19 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394836,
+		"ips": 9394826,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34740922,
 		"common": 1
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1432,
+		"ips": 1433,
 		"common": 1
 	},
 	{
@@ -123,7 +129,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612688,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -148,6 +154,12 @@
 		"category": "reputation",
 		"ips": 2132,
 		"common": 2
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 1
 	},
 	{
 		"name": "sorbs_dul",
