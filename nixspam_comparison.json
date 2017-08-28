@@ -164,7 +164,7 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 14403,
+		"ips": 10870,
 		"common": 8
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40257,
+		"ips": 40256,
 		"common": 85
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27922,
+		"ips": 27921,
 		"common": 85
 	},
 	{
@@ -828,21 +828,15 @@
 		"common": 29
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 2
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1504,
-		"common": 27
+		"ips": 1502,
+		"common": 26
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8775,
+		"ips": 8774,
 		"common": 49
 	},
 	{
@@ -888,9 +882,15 @@
 		"common": 4094
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 99,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1104,
+		"ips": 1102,
 		"common": 1
 	},
 	{
@@ -902,7 +902,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3112,
+		"ips": 3116,
 		"common": 5
 	},
 	{
@@ -986,19 +986,19 @@
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 160,
+		"ips": 161,
 		"common": 13
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 181,
+		"ips": 178,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 377,
+		"ips": 379,
 		"common": 1
 	},
 	{
