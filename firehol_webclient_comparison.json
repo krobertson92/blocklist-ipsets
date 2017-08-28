@@ -152,13 +152,13 @@
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9393,
+		"ips": 9400,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30444,
+		"ips": 30446,
 		"common": 5
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21269,
-		"common": 670
+		"ips": 21267,
+		"common": 671
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -722,14 +722,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40120,
+		"ips": 40135,
 		"common": 479
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652294946,
-		"common": 677
+		"common": 679
 	},
 	{
 		"name": "firehol_level2",
@@ -746,13 +746,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395439,
+		"ips": 9395436,
 		"common": 30652
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27817,
+		"ips": 27832,
 		"common": 460
 	},
 	{
@@ -885,7 +885,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656158627,
-		"common": 1648
+		"common": 1649
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -915,7 +915,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227917160,
-		"common": 368
+		"common": 369
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -1005,7 +1005,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691464,
-		"common": 688
+		"common": 689
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1245,7 +1245,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1998
+		"common": 1999
 	},
 	{
 		"name": "ransomware_feed",
@@ -1260,6 +1260,12 @@
 		"common": 4
 	},
 	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
+	},
+	{
 		"name": "ransomware_online",
 		"category": "malware",
 		"ips": 137,
@@ -1269,7 +1275,7 @@
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 322,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -1394,13 +1400,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6063,
+		"ips": 6070,
 		"common": 1
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3091,
+		"ips": 3090,
 		"common": 1
 	},
 	{
@@ -1532,7 +1538,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 157,
+		"ips": 161,
 		"common": 1
 	},
 	{
