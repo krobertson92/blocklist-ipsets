@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 302,
+		"ips": 287,
 		"common": 4
 	},
 	{
@@ -122,8 +122,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21176,
-		"common": 35
+		"ips": 21182,
+		"common": 36
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -350,7 +350,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40242,
+		"ips": 40244,
 		"common": 242
 	},
 	{
@@ -368,19 +368,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 117500,
+		"ips": 117499,
 		"common": 80
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395349,
-		"common": 306
+		"ips": 9395348,
+		"common": 307
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27850,
+		"ips": 27852,
 		"common": 219
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "iblocklist_ads",
 		"category": "organizations",
-		"ips": 884020,
+		"ips": 881574,
 		"common": 10
 	},
 	{
@@ -818,8 +818,8 @@
 	{
 		"name": "sblam",
 		"category": "abuse",
-		"ips": 12001,
-		"common": 238
+		"ips": 11071,
+		"common": 240
 	},
 	{
 		"name": "snort_ipfilter",
@@ -828,9 +828,15 @@
 		"common": 22
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 2
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1487,
+		"ips": 1492,
 		"common": 28
 	},
 	{
@@ -842,7 +848,7 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4839,
+		"ips": 4838,
 		"common": 28
 	},
 	{
@@ -896,13 +902,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1052,
+		"ips": 1056,
 		"common": 54
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6086,
+		"ips": 6087,
 		"common": 91
 	},
 	{
