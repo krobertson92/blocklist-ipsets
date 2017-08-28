@@ -50,14 +50,20 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 106,
-		"common": 19
+		"ips": 107,
+		"common": 20
 	},
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 403,
 		"common": 55
+	},
+	{
+		"name": "bambenek_pykspa",
+		"category": "malware",
+		"ips": 6,
+		"common": 1
 	},
 	{
 		"name": "bambenek_ramnit",
@@ -68,8 +74,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 134,
-		"common": 31
+		"ips": 130,
+		"common": 29
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -176,7 +182,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28492,
+		"ips": 28524,
 		"common": 5
 	},
 	{
@@ -200,7 +206,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21074,
+		"ips": 21075,
 		"common": 120
 	},
 	{
@@ -242,32 +248,26 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6536,
-		"common": 401
-	},
-	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 52,
-		"common": 1
+		"ips": 6526,
+		"common": 399
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 968,
-		"common": 70
+		"ips": 951,
+		"common": 67
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14305,
+		"ips": 14293,
 		"common": 255
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4014,
-		"common": 179
+		"ips": 4009,
+		"common": 178
 	},
 	{
 		"name": "botvrij_dst",
@@ -608,7 +608,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39409,
+		"ips": 39406,
 		"common": 264
 	},
 	{
@@ -620,8 +620,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40297,
-		"common": 473
+		"ips": 40178,
+		"common": 471
 	},
 	{
 		"name": "firehol_level1",
@@ -632,7 +632,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36407,
+		"ips": 36455,
 		"common": 28
 	},
 	{
@@ -644,7 +644,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395261,
+		"ips": 9395249,
 		"common": 1605
 	},
 	{
@@ -686,7 +686,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1930,
+		"ips": 1949,
 		"common": 20
 	},
 	{
@@ -1064,7 +1064,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16314,
+		"ips": 16403,
 		"common": 3
 	},
 	{
