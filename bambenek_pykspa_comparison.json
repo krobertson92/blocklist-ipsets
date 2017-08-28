@@ -12,15 +12,27 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 51,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 129,
-		"common": 1
+		"ips": 124,
+		"common": 2
 	},
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
 		"ips": 70,
+		"common": 2
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 30542,
 		"common": 1
 	},
 	{
@@ -39,7 +51,7 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 14897,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_emd",
@@ -51,36 +63,48 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 27074,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_mmt",
 		"category": "reputation",
 		"ips": 1148,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
 		"ips": 1747,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 30917,
+		"common": 2
+	},
+	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 869,
+		"common": 1
+	},
+	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
 		"common": 1
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5024,
-		"common": 1
-	},
-	{
-		"name": "sorbs_recent_spam",
-		"category": "spam",
-		"ips": 545338,
+		"ips": 5025,
 		"common": 1
 	}
 ]
