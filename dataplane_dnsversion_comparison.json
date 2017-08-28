@@ -135,7 +135,7 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 262,
-		"common": 151
+		"common": 150
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -183,13 +183,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 27392,
-		"common": 101
+		"common": 100
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 14080,
-		"common": 93
+		"common": 92
 	},
 	{
 		"name": "et_block",
@@ -231,19 +231,25 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 117480,
-		"common": 129
+		"common": 128
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395434,
+		"ips": 9395430,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740970,
-		"common": 106
+		"common": 107
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1096014,
+		"common": 1
 	},
 	{
 		"name": "greensnow",
@@ -339,7 +345,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 106
+		"common": 107
 	},
 	{
 		"name": "snort_ipfilter",
@@ -375,7 +381,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 17102,
-		"common": 125
+		"common": 124
 	},
 	{
 		"name": "urandomusto_dns",
