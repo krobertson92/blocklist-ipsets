@@ -110,7 +110,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 113,
+		"ips": 112,
 		"common": 23
 	},
 	{
@@ -128,8 +128,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 124,
-		"common": 24
+		"ips": 131,
+		"common": 27
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -255,7 +255,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 32365,
-		"common": 2016
+		"common": 2020
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -303,7 +303,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 12960,
-		"common": 1221
+		"common": 1225
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -314,8 +314,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21022,
-		"common": 21022
+		"ips": 21036,
+		"common": 21036
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -927,13 +927,13 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 40285,
-		"common": 2284
+		"common": 2288
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 114210,
-		"common": 1926
+		"ips": 114181,
+		"common": 1911
 	},
 	{
 		"name": "firehol_proxies",
@@ -950,8 +950,8 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740970,
-		"common": 54480
+		"ips": 34740925,
+		"common": 54462
 	},
 	{
 		"name": "fullbogons",
@@ -1052,7 +1052,7 @@
 	{
 		"name": "hphosts_wrz",
 		"category": "reputation",
-		"ips": 869,
+		"ips": 868,
 		"common": 52
 	},
 	{
@@ -1083,13 +1083,13 @@
 		"name": "iblocklist_badpeers",
 		"category": "reputation",
 		"ips": 1568828,
-		"common": 4167
+		"common": 4168
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656159907,
-		"common": 57513
+		"common": 57512
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -1233,7 +1233,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691464,
-		"common": 920949
+		"common": 920950
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1245,7 +1245,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139013541,
-		"common": 162287
+		"common": 162288
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -1299,7 +1299,7 @@
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 845657,
-		"common": 892
+		"common": 894
 	},
 	{
 		"name": "iblocklist_proxies",
@@ -1424,8 +1424,8 @@
 	{
 		"name": "myip",
 		"category": "abuse",
-		"ips": 3635,
-		"common": 351
+		"ips": 3603,
+		"common": 335
 	},
 	{
 		"name": "nixspam",
@@ -1461,7 +1461,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2847,
-		"common": 103
+		"common": 102
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -1809,7 +1809,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 28686
+		"common": 28687
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1821,7 +1821,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 1165
+		"common": 1166
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -1839,7 +1839,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 6267285,
-		"common": 5620
+		"common": 5623
 	},
 	{
 		"name": "sorbs_zombie",
