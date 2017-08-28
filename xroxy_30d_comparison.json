@@ -6,6 +6,12 @@
 		"common": 3
 	},
 	{
+		"name": "bi_any_2_1d",
+		"category": "attacks",
+		"ips": 1358,
+		"common": 1
+	},
+	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 4765,
@@ -40,12 +46,6 @@
 		"category": "attacks",
 		"ips": 18372,
 		"common": 15
-	},
-	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 21035,
-		"common": 2
 	},
 	{
 		"name": "botscout_1d",
@@ -134,7 +134,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559371,
+		"ips": 559370,
 		"common": 445
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 56791,
+		"ips": 56792,
 		"common": 11
 	},
 	{
@@ -194,8 +194,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394927,
-		"common": 97
+		"ips": 9394976,
+		"common": 96
 	},
 	{
 		"name": "firehol_proxies",

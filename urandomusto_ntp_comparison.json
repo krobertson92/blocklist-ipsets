@@ -21,13 +21,13 @@
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
 		"ips": 83,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "atlas_attacks_7d",
 		"category": "attacks",
 		"ips": 29,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bds_atif",
@@ -51,7 +51,7 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 256,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "dataplane_dnsrdany",
@@ -134,8 +134,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394927,
-		"common": 1
+		"ips": 9394976,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -148,6 +148,12 @@
 		"category": "attacks",
 		"ips": 1923,
 		"common": 7
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 22902,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -249,7 +255,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 17102,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "urandomusto_dns",
@@ -266,13 +272,13 @@
 	{
 		"name": "urandomusto_smb",
 		"category": "attacks",
-		"ips": 45,
+		"ips": 47,
 		"common": 2
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 379,
+		"ips": 371,
 		"common": 2
 	},
 	{
