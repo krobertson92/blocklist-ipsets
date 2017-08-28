@@ -74,14 +74,14 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30499,
+		"ips": 30497,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 32554,
-		"common": 1102
+		"common": 1100
 	},
 	{
 		"name": "blocklist_de_bots",
@@ -123,7 +123,7 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 12998,
-		"common": 597
+		"common": 595
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -207,7 +207,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 10870,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "cleanmx_phishing",
@@ -345,7 +345,7 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 18000,
-		"common": 345
+		"common": 344
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -380,7 +380,7 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 559371,
+		"ips": 559370,
 		"common": 175
 	},
 	{
@@ -495,12 +495,12 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 263013,
-		"common": 2155
+		"common": 2156
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40321,
+		"ips": 40323,
 		"common": 119
 	},
 	{
@@ -513,24 +513,24 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 40473,
-		"common": 1214
+		"common": 1212
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 114175,
-		"common": 173
+		"common": 174
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394940,
-		"common": 21038
+		"ips": 9394950,
+		"common": 21048
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27887,
+		"ips": 27889,
 		"common": 108
 	},
 	{
@@ -543,7 +543,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740925,
-		"common": 1396
+		"common": 1397
 	},
 	{
 		"name": "gofferje_sip",
@@ -657,7 +657,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 14263,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_cruzit_web_attacks",
@@ -753,7 +753,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139013541,
-		"common": 1043
+		"common": 1045
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -783,7 +783,7 @@
 		"name": "iblocklist_pedophiles",
 		"category": "reputation",
 		"ips": 845657,
-		"common": 119
+		"common": 121
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -939,7 +939,7 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2061,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "php_commenters",
@@ -1218,21 +1218,27 @@
 		"common": 19
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1489,
+		"ips": 1492,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8776,
+		"ips": 8778,
 		"common": 9
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4830,
+		"ips": 4832,
 		"common": 8
 	},
 	{
@@ -1245,7 +1251,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 2399
+		"common": 2401
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1317,13 +1323,13 @@
 		"name": "stopforumspam",
 		"category": "abuse",
 		"ips": 152272,
-		"common": 542
+		"common": 543
 	},
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
 		"ips": 257473,
-		"common": 663
+		"common": 664
 	},
 	{
 		"name": "stopforumspam_1d",
@@ -1341,7 +1347,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 368994,
-		"common": 747
+		"common": 748
 	},
 	{
 		"name": "stopforumspam_7d",
@@ -1353,19 +1359,19 @@
 		"name": "stopforumspam_90d",
 		"category": "abuse",
 		"ips": 154050,
-		"common": 546
+		"common": 547
 	},
 	{
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 537175,
-		"common": 55
+		"common": 56
 	},
 	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11085,
-		"common": 82
+		"common": 83
 	},
 	{
 		"name": "talosintel_ipfilter",
