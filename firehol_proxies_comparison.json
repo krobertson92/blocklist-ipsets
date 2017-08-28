@@ -99,7 +99,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 34486,
-		"common": 907
+		"common": 908
 	},
 	{
 		"name": "blocklist_de_ftp",
@@ -117,7 +117,7 @@
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 20339,
-		"common": 905
+		"common": 906
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21070,
+		"ips": 21077,
 		"common": 93
 	},
 	{
@@ -506,8 +506,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40369,
-		"common": 27940
+		"ips": 40380,
+		"common": 27951
 	},
 	{
 		"name": "firehol_level1",
@@ -519,7 +519,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 42718,
-		"common": 920
+		"common": 921
 	},
 	{
 		"name": "firehol_level3",
@@ -530,7 +530,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394984,
+		"ips": 9394989,
 		"common": 1910
 	},
 	{
@@ -615,7 +615,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656159907,
-		"common": 1806
+		"common": 1808
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -735,7 +735,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139013541,
-		"common": 1141
+		"common": 1142
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -861,7 +861,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1545212,
-		"common": 3793
+		"common": 3794
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -878,8 +878,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38257,
-		"common": 471
+		"ips": 38234,
+		"common": 478
 	},
 	{
 		"name": "nullsecure",
@@ -1178,20 +1178,20 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1548,
-		"common": 1539
+		"ips": 1542,
+		"common": 1534
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8807,
-		"common": 8722
+		"ips": 8809,
+		"common": 8724
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4797,
-		"common": 4765
+		"ips": 4799,
+		"common": 4767
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1262,20 +1262,20 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 989,
-		"common": 987
+		"ips": 987,
+		"common": 985
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6184,
-		"common": 6174
+		"ips": 6194,
+		"common": 6184
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3095,
-		"common": 3086
+		"ips": 3107,
+		"common": 3098
 	},
 	{
 		"name": "stopforumspam",
