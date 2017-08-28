@@ -200,7 +200,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21048,
+		"ips": 21043,
 		"common": 20
 	},
 	{
@@ -240,12 +240,6 @@
 		"common": 20
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 23,
-		"common": 1
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 938,
@@ -254,13 +248,13 @@
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14263,
+		"ips": 14254,
 		"common": 32
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4000,
+		"ips": 4003,
 		"common": 17
 	},
 	{
@@ -428,7 +422,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6543,
+		"ips": 6552,
 		"common": 20
 	},
 	{
@@ -572,7 +566,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39154,
+		"ips": 39155,
 		"common": 28
 	},
 	{
@@ -584,7 +578,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40312,
+		"ips": 40353,
 		"common": 29
 	},
 	{
@@ -608,7 +602,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394955,
+		"ips": 9394944,
 		"common": 258
 	},
 	{
@@ -650,8 +644,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1935,
-		"common": 89
+		"ips": 1940,
+		"common": 91
 	},
 	{
 		"name": "haley_ssh",
@@ -854,8 +848,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39346,
-		"common": 3
+		"ips": 39342,
+		"common": 4
 	},
 	{
 		"name": "nt_malware_http",
@@ -1026,21 +1020,27 @@
 		"common": 1
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 142,
+		"common": 2
+	},
+	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 393,
-		"common": 1
+		"ips": 446,
+		"common": 2
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5063,
+		"ips": 5021,
 		"common": 3
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1616,
+		"ips": 1577,
 		"common": 2
 	},
 	{
@@ -1304,8 +1304,8 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 165,
-		"common": 23
+		"ips": 167,
+		"common": 25
 	},
 	{
 		"name": "urandomusto_vnc",
