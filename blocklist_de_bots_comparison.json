@@ -21,12 +21,12 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 28567,
-		"common": 139
+		"common": 140
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21007,
+		"ips": 20995,
 		"common": 6
 	},
 	{
@@ -165,7 +165,7 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 36740,
-		"common": 139
+		"common": 140
 	},
 	{
 		"name": "firehol_level3",
@@ -176,7 +176,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395178,
+		"ips": 9395167,
 		"common": 35
 	},
 	{
@@ -255,7 +255,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138950935,
-		"common": 5
+		"common": 6
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4061163,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_spider",
