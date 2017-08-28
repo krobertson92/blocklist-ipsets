@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20917,
+		"ips": 20914,
 		"common": 7
 	},
 	{
@@ -63,13 +63,13 @@
 		"name": "cleanmx_phishing",
 		"category": "spam",
 		"ips": 4519,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
 		"ips": 12190,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "cleantalk_1d",
@@ -134,7 +134,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42150,
+		"ips": 42221,
 		"common": 1
 	},
 	{
@@ -146,20 +146,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394839,
-		"common": 21
+		"ips": 9394836,
+		"common": 22
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34184,
-		"common": 179
+		"ips": 34185,
+		"common": 180
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740922,
-		"common": 72
+		"common": 75
 	},
 	{
 		"name": "gofferje_sip",
@@ -195,7 +195,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26950,
-		"common": 28
+		"common": 30
 	},
 	{
 		"name": "hphosts_fsa",
@@ -225,7 +225,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 30917,
-		"common": 31
+		"common": 34
 	},
 	{
 		"name": "iblocklist_ads",
@@ -237,6 +237,12 @@
 		"name": "iblocklist_badpeers",
 		"category": "reputation",
 		"ips": 1568828,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unrouteable",
+		"ips": 656159907,
 		"common": 1
 	},
 	{
@@ -267,7 +273,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139013541,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -309,13 +315,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 38
+		"common": 40
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5021,
-		"common": 12
+		"ips": 5022,
+		"common": 13
 	},
 	{
 		"name": "sorbs_recent_spam",
