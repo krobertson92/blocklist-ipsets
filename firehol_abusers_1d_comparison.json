@@ -362,7 +362,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 254,
+		"ips": 255,
 		"common": 2
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 154,
+		"ips": 155,
 		"common": 1
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 449,
+		"ips": 447,
 		"common": 2
 	},
 	{
@@ -536,8 +536,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40299,
-		"common": 4267
+		"ips": 40304,
+		"common": 4266
 	},
 	{
 		"name": "firehol_level1",
@@ -566,7 +566,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27942,
+		"ips": 27946,
 		"common": 3683
 	},
 	{
@@ -1281,24 +1281,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 30
+		"common": 18
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1518,
+		"ips": 1524,
 		"common": 456
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8798,
+		"ips": 8801,
 		"common": 614
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4801,
+		"ips": 4804,
 		"common": 579
 	},
 	{
@@ -1365,18 +1365,18 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 99,
-		"common": 80
+		"common": 77
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 995,
+		"ips": 990,
 		"common": 655
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6183,
+		"ips": 6184,
 		"common": 1236
 	},
 	{
@@ -1454,25 +1454,25 @@
 	{
 		"name": "tor_exits",
 		"category": "anonymizers",
-		"ips": 848,
-		"common": 623
+		"ips": 849,
+		"common": 621
 	},
 	{
 		"name": "tor_exits_1d",
 		"category": "anonymizers",
-		"ips": 891,
-		"common": 637
+		"ips": 890,
+		"common": 635
 	},
 	{
 		"name": "tor_exits_30d",
 		"category": "anonymizers",
-		"ips": 1878,
+		"ips": 1879,
 		"common": 646
 	},
 	{
 		"name": "tor_exits_7d",
 		"category": "anonymizers",
-		"ips": 1097,
+		"ips": 1098,
 		"common": 641
 	},
 	{
