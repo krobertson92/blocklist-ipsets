@@ -104,8 +104,8 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 70,
-		"common": 32
+		"ips": 51,
+		"common": 25
 	},
 	{
 		"name": "bambenek_tinba",
@@ -348,52 +348,64 @@
 		"common": 891
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2398,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 31292,
-		"common": 17
+		"ips": 31272,
+		"common": 18
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121032,
-		"common": 118
+		"ips": 121029,
+		"common": 119
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66367,
-		"common": 78
+		"ips": 66357,
+		"common": 79
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19845,
+		"ips": 19839,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4761,
+		"ips": 4760,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 36573,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158733,
-		"common": 128
+		"ips": 158729,
+		"common": 129
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 85056,
-		"common": 85
+		"ips": 85034,
+		"common": 86
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -608,14 +620,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 37717,
-		"common": 20
+		"ips": 37711,
+		"common": 21
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 263557,
-		"common": 138
+		"ips": 263566,
+		"common": 139
 	},
 	{
 		"name": "firehol_anonymous",
@@ -657,7 +669,7 @@
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 34188,
-		"common": 191
+		"common": 192
 	},
 	{
 		"name": "firehol_webserver",
@@ -1046,7 +1058,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 13423,
+		"ips": 13580,
 		"common": 18
 	},
 	{
@@ -1083,7 +1095,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 5020,
-		"common": 3568
+		"common": 3569
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1101,7 +1113,7 @@
 		"name": "ransomware_online",
 		"category": "malware",
 		"ips": 138,
-		"common": 107
+		"common": 108
 	},
 	{
 		"name": "ransomware_rw",
