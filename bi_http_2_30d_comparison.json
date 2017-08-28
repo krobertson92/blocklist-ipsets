@@ -14,7 +14,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1152,
+		"ips": 1212,
 		"common": 36
 	},
 	{
@@ -219,7 +219,7 @@
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
 		"ips": 256,
-		"common": 17
+		"common": 16
 	},
 	{
 		"name": "dataplane_dnsversion",
@@ -344,7 +344,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40319,
+		"ips": 40321,
 		"common": 29
 	},
 	{
@@ -356,8 +356,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40353,
-		"common": 47
+		"ips": 40473,
+		"common": 48
 	},
 	{
 		"name": "firehol_level3",
@@ -374,7 +374,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27885,
+		"ips": 27887,
 		"common": 24
 	},
 	{
@@ -726,9 +726,15 @@
 		"common": 1
 	},
 	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 311,
+		"common": 1
+	},
+	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 178,
+		"ips": 177,
 		"common": 2
 	},
 	{
