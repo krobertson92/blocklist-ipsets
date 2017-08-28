@@ -158,73 +158,73 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7774,
-		"common": 11
+		"ips": 7761,
+		"common": 12
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9404,
+		"ips": 9432,
 		"common": 15
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30483,
-		"common": 88
+		"ips": 30510,
+		"common": 89
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14431,
-		"common": 31
+		"ips": 14448,
+		"common": 32
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33255,
-		"common": 909
+		"ips": 33416,
+		"common": 911
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8765,
+		"ips": 8768,
 		"common": 153
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 147,
+		"ips": 148,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 209,
+		"ips": 211,
 		"common": 12
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 575,
+		"ips": 581,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2047,
+		"ips": 2054,
 		"common": 56
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19169,
-		"common": 832
+		"ips": 19256,
+		"common": 834
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12737,
+		"ips": 12797,
 		"common": 32
 	},
 	{
@@ -236,8 +236,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20895,
-		"common": 730
+		"ips": 20863,
+		"common": 726
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -320,8 +320,8 @@
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
-		"ips": 1144,
-		"common": 28
+		"ips": 1140,
+		"common": 27
 	},
 	{
 		"name": "chaosreigns_iprep0",
@@ -548,7 +548,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2931,
+		"ips": 2933,
 		"common": 41
 	},
 	{
@@ -573,25 +573,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 4
+		"common": 6
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 7424,
-		"common": 7
+		"ips": 7680,
+		"common": 9
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 27904,
-		"common": 110
+		"ips": 28160,
+		"common": 112
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 12800,
-		"common": 34
+		"ips": 13056,
+		"common": 36
 	},
 	{
 		"name": "dshield_top_1000",
@@ -759,25 +759,25 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652294921,
-		"common": 6877
+		"common": 6879
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41370,
-		"common": 941
+		"ips": 41783,
+		"common": 944
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 114654,
+		"ips": 114901,
 		"common": 2273
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394824,
-		"common": 13453
+		"ips": 9394793,
+		"common": 13450
 	},
 	{
 		"name": "firehol_proxies",
@@ -788,7 +788,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34188,
+		"ips": 34187,
 		"common": 716
 	},
 	{
@@ -1208,8 +1208,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39171,
-		"common": 432
+		"ips": 39167,
+		"common": 421
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1545,13 +1545,13 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 42
+		"common": 35
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 1502,
-		"common": 622
+		"common": 621
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1562,8 +1562,8 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4828,
-		"common": 1875
+		"ips": 4824,
+		"common": 1874
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1646,8 +1646,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1023,
-		"common": 344
+		"ips": 1017,
+		"common": 343
 	},
 	{
 		"name": "sslproxies_30d",
