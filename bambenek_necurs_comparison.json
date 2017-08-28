@@ -9,37 +9,37 @@
 		"name": "bogons",
 		"category": "unroutable",
 		"ips": 592708608,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 601225672,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652282625,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "fullbogons",
 		"category": "unrouteable",
 		"ips": 626911880,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656159907,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
 		"ips": 601225672,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_edu",
@@ -51,18 +51,24 @@
 		"name": "iblocklist_fornonlancomputers",
 		"category": "reputation",
 		"ips": 302055424,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "iblocklist_iana_reserved",
 		"category": "unroutable",
 		"ips": 536870912,
-		"common": 8
+		"common": 9
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762687312,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346595898,
-		"common": 1
+		"common": 3
 	}
 ]
