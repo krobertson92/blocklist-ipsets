@@ -38,13 +38,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34202,
+		"ips": 34298,
 		"common": 20
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20144,
+		"ips": 20223,
 		"common": 20
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21072,
+		"ips": 21070,
 		"common": 26
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6573,
+		"ips": 6544,
 		"common": 1
 	},
 	{
@@ -272,13 +272,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40304,
+		"ips": 40363,
 		"common": 2520
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42434,
+		"ips": 42530,
 		"common": 21
 	},
 	{
@@ -290,8 +290,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394989,
-		"common": 454
+		"ips": 9394978,
+		"common": 455
 	},
 	{
 		"name": "firehol_proxies",
@@ -462,6 +462,12 @@
 		"common": 1
 	},
 	{
+		"name": "ipblacklistcloud_top",
+		"category": "abuse",
+		"ips": 232,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
@@ -482,8 +488,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38309,
-		"common": 32
+		"ips": 38257,
+		"common": 34
 	},
 	{
 		"name": "nullsecure",
