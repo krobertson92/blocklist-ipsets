@@ -56,7 +56,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34022,
+		"ips": 34061,
 		"common": 343
 	},
 	{
@@ -68,19 +68,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2046,
+		"ips": 2044,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20000,
+		"ips": 20026,
 		"common": 340
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12619,
+		"ips": 12631,
 		"common": 1
 	},
 	{
@@ -88,6 +88,12 @@
 		"category": "attacks",
 		"ips": 139,
 		"common": 8
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 20930,
+		"common": 27
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -308,7 +314,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40370,
+		"ips": 40369,
 		"common": 485
 	},
 	{
@@ -326,13 +332,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9377423,
-		"common": 159
+		"ips": 9394842,
+		"common": 178
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27934,
+		"ips": 27933,
 		"common": 467
 	},
 	{
@@ -446,7 +452,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762691464,
+		"ips": 762687312,
 		"common": 19
 	},
 	{
@@ -548,8 +554,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38488,
-		"common": 174
+		"ips": 38460,
+		"common": 179
 	},
 	{
 		"name": "nullsecure",
@@ -824,7 +830,7 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1507,
+		"ips": 1508,
 		"common": 119
 	},
 	{
@@ -836,8 +842,8 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4816,
-		"common": 295
+		"ips": 4811,
+		"common": 294
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -884,7 +890,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1003,
+		"ips": 1001,
 		"common": 14
 	},
 	{
@@ -896,7 +902,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3110,
+		"ips": 3108,
 		"common": 31
 	},
 	{
@@ -956,8 +962,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8912,
-		"common": 39
+		"ips": 7425,
+		"common": 36
 	},
 	{
 		"name": "threatcrowd",

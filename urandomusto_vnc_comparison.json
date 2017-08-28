@@ -12,6 +12,12 @@
 		"common": 6
 	},
 	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 20930,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 10870,
@@ -46,6 +52,12 @@
 		"category": "attacks",
 		"ips": 114884,
 		"common": 2
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9394842,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
@@ -86,7 +98,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762691464,
+		"ips": 762687312,
 		"common": 3
 	},
 	{

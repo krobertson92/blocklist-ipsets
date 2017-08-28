@@ -50,7 +50,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34022,
+		"ips": 34061,
 		"common": 8
 	},
 	{
@@ -58,6 +58,12 @@
 		"category": "attacks",
 		"ips": 606,
 		"common": 8
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 20930,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -186,6 +192,12 @@
 		"common": 8
 	},
 	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9394842,
+		"common": 1
+	},
+	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740866,
@@ -212,7 +224,7 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762691464,
+		"ips": 762687312,
 		"common": 1
 	},
 	{
@@ -332,7 +344,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8912,
+		"ips": 7425,
 		"common": 2
 	},
 	{

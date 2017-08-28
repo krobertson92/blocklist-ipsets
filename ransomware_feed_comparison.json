@@ -75,7 +75,7 @@
 		"name": "bbcan177_ms1",
 		"category": "malware",
 		"ips": 5268567,
-		"common": 132
+		"common": 131
 	},
 	{
 		"name": "bbcan177_ms3",
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34022,
+		"ips": 34061,
 		"common": 7
 	},
 	{
@@ -122,8 +122,14 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20000,
+		"ips": 20026,
 		"common": 3
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 20930,
+		"common": 25
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -405,7 +411,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652282633,
-		"common": 340
+		"common": 339
 	},
 	{
 		"name": "firehol_level2",
@@ -417,25 +423,25 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 114884,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9377423,
-		"common": 296
+		"ips": 9394842,
+		"common": 319
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 34187,
-		"common": 162
+		"common": 161
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740866,
-		"common": 3912
+		"common": 3913
 	},
 	{
 		"name": "fullbogons",
@@ -471,7 +477,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26950,
-		"common": 3559
+		"common": 3560
 	},
 	{
 		"name": "hphosts_exp",
@@ -620,14 +626,14 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762691464,
+		"ips": 762687312,
 		"common": 202
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612688,
-		"common": 260
+		"common": 259
 	},
 	{
 		"name": "iblocklist_level3",
@@ -728,7 +734,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38488,
+		"ips": 38460,
 		"common": 5
 	},
 	{
@@ -753,7 +759,7 @@
 		"name": "ransomware_locky_c2",
 		"category": "malware",
 		"ips": 275,
-		"common": 267
+		"common": 266
 	},
 	{
 		"name": "ransomware_locky_ps",
@@ -764,14 +770,14 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 135,
-		"common": 135
+		"ips": 134,
+		"common": 134
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 324,
-		"common": 276
+		"common": 275
 	},
 	{
 		"name": "ransomware_torrentlocker_c2",
@@ -843,7 +849,7 @@
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 2972,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "stopforumspam",
@@ -902,14 +908,14 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8912,
+		"ips": 7425,
 		"common": 4
 	},
 	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 6383,
-		"common": 151
+		"common": 150
 	},
 	{
 		"name": "urlvir",
