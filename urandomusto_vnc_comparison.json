@@ -15,7 +15,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5109,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -99,7 +99,7 @@
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 443,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "dragon_http",
@@ -132,6 +132,12 @@
 		"common": 8
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 908,
+		"common": 1
+	},
+	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24580703,
@@ -152,26 +158,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652294924,
+		"ips": 652294930,
 		"common": 6
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36431,
+		"ips": 36435,
 		"common": 13
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 117536,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740970,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "gofferje_sip",
@@ -182,20 +188,26 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1962,
+		"ips": 1965,
 		"common": 7
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656159907,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 14263,
 		"common": 4
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227917160,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -255,13 +267,13 @@
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2059,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "sorbs_dul",
@@ -314,7 +326,7 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 165,
+		"ips": 164,
 		"common": 2
 	},
 	{

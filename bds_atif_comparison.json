@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1102,
+		"ips": 1078,
 		"common": 50
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21089,
+		"ips": 21088,
 		"common": 119
 	},
 	{
@@ -164,25 +164,25 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 29,
-		"common": 1
+		"ips": 28,
+		"common": 3
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 948,
-		"common": 43
+		"ips": 938,
+		"common": 42
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14291,
+		"ips": 14277,
 		"common": 89
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4001,
+		"ips": 3999,
 		"common": 73
 	},
 	{
@@ -326,8 +326,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6529,
-		"common": 71
+		"ips": 6546,
+		"common": 70
 	},
 	{
 		"name": "dragon_http",
@@ -566,7 +566,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40211,
+		"ips": 40213,
 		"common": 92
 	},
 	{
@@ -578,19 +578,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40245,
+		"ips": 40263,
 		"common": 81
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652294924,
+		"ips": 652294930,
 		"common": 127
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36431,
+		"ips": 36435,
 		"common": 585
 	},
 	{
@@ -602,7 +602,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395261,
+		"ips": 9395246,
 		"common": 530
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34187,
+		"ips": 34185,
 		"common": 43
 	},
 	{
@@ -638,7 +638,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1962,
+		"ips": 1965,
 		"common": 92
 	},
 	{
@@ -878,8 +878,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 16881,
-		"common": 55
+		"ips": 17098,
+		"common": 57
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -914,7 +914,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 166,
+		"ips": 154,
 		"common": 2
 	},
 	{
@@ -1220,14 +1220,14 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 165,
-		"common": 19
+		"ips": 164,
+		"common": 18
 	},
 	{
 		"name": "urandomusto_vnc",
 		"category": "attacks",
-		"ips": 41,
-		"common": 14
+		"ips": 44,
+		"common": 15
 	},
 	{
 		"name": "voipbl",
