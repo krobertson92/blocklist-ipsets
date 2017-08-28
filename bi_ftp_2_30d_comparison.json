@@ -50,14 +50,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28701,
+		"ips": 28786,
 		"common": 8
 	},
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 558,
+		"ips": 560,
 		"common": 8
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 21254,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -188,7 +194,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36549,
+		"ips": 36633,
 		"common": 14
 	},
 	{
@@ -196,6 +202,12 @@
 		"category": "attacks",
 		"ips": 117482,
 		"common": 10
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9395419,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
