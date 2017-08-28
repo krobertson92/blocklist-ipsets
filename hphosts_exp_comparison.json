@@ -194,7 +194,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 41111,
+		"ips": 41142,
 		"common": 1
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34186,
-		"common": 1
+		"ips": 34187,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -422,13 +422,19 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5021,
+		"ips": 5022,
 		"common": 60
 	},
 	{
 		"name": "ransomware_locky_c2",
 		"category": "malware",
 		"ips": 275,
+		"common": 1
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 135,
 		"common": 1
 	},
 	{

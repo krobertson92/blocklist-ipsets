@@ -80,8 +80,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1046,
-		"common": 100
+		"ips": 1013,
+		"common": 98
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -602,8 +602,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 41111,
-		"common": 11554
+		"ips": 41142,
+		"common": 11563
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34186,
+		"ips": 34187,
 		"common": 238
 	},
 	{
@@ -878,8 +878,8 @@
 	{
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
-		"ips": 6529,
-		"common": 619
+		"ips": 6472,
+		"common": 620
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -1250,7 +1250,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5021,
+		"ips": 5022,
 		"common": 1
 	},
 	{
@@ -1448,8 +1448,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6646,
-		"common": 4841
+		"ips": 6726,
+		"common": 4875
 	},
 	{
 		"name": "stopforumspam_365d",
@@ -1544,7 +1544,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 188,
+		"ips": 189,
 		"common": 1
 	},
 	{
@@ -1562,8 +1562,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 273,
+		"ips": 283,
 		"common": 4
+	},
+	{
+		"name": "urandomusto_telnet",
+		"category": "attacks",
+		"ips": 418,
+		"common": 1
 	},
 	{
 		"name": "urlvir",

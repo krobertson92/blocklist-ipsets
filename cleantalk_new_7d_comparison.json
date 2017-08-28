@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1046,
+		"ips": 1013,
 		"common": 1
 	},
 	{
@@ -362,8 +362,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 41111,
-		"common": 2113
+		"ips": 41142,
+		"common": 2114
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -410,7 +410,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34186,
+		"ips": 34187,
 		"common": 4
 	},
 	{
@@ -542,8 +542,8 @@
 	{
 		"name": "iblocklist_onion_router",
 		"category": "anonymizers",
-		"ips": 6529,
-		"common": 25
+		"ips": 6472,
+		"common": 26
 	},
 	{
 		"name": "iblocklist_org_blizzard",
@@ -980,8 +980,8 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 6646,
-		"common": 524
+		"ips": 6726,
+		"common": 534
 	},
 	{
 		"name": "stopforumspam_30d",
@@ -1054,6 +1054,12 @@
 		"category": "attacks",
 		"ips": 188,
 		"common": 21
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 356,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
