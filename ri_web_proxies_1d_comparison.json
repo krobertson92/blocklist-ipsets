@@ -8,7 +8,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1269,
+		"ips": 1219,
 		"common": 4
 	},
 	{
@@ -50,26 +50,32 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20911,
+		"ips": 20899,
 		"common": 7
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 51,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 954,
-		"common": 13
+		"ips": 911,
+		"common": 14
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14229,
-		"common": 92
+		"ips": 14206,
+		"common": 91
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4032,
-		"common": 63
+		"ips": 4024,
+		"common": 62
 	},
 	{
 		"name": "cleantalk",
@@ -188,7 +194,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40402,
+		"ips": 40393,
 		"common": 262
 	},
 	{
@@ -200,37 +206,37 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40363,
+		"ips": 40362,
 		"common": 401
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652282626,
+		"ips": 652282622,
 		"common": 8
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42013,
+		"ips": 42008,
 		"common": 21
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 114917,
+		"ips": 114920,
 		"common": 33
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394838,
-		"common": 94
+		"ips": 9394803,
+		"common": 93
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27918,
+		"ips": 27917,
 		"common": 404
 	},
 	{
@@ -567,7 +573,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -644,7 +650,7 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6169,
+		"ips": 6168,
 		"common": 77
 	},
 	{
@@ -704,7 +710,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 8909,
+		"ips": 8908,
 		"common": 1
 	},
 	{
