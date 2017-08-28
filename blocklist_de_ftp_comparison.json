@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21125,
-		"common": 26
+		"ips": 21118,
+		"common": 25
 	},
 	{
 		"name": "bruteforceblocker",
@@ -236,7 +236,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40304,
+		"ips": 40305,
 		"common": 1
 	},
 	{
@@ -260,13 +260,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395286,
-		"common": 44
+		"ips": 9395279,
+		"common": 43
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27903,
+		"ips": 27904,
 		"common": 1
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
-		"ips": 138950935,
+		"ips": 139013541,
 		"common": 14
 	},
 	{
@@ -458,7 +458,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5020,
+		"ips": 5019,
 		"common": 1
 	},
 	{
@@ -580,6 +580,18 @@
 		"category": "attacks",
 		"ips": 188,
 		"common": 56
+	},
+	{
+		"name": "urandomusto_http",
+		"category": "attacks",
+		"ips": 296,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_rdp",
+		"category": "attacks",
+		"ips": 181,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
