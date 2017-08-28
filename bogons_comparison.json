@@ -72,22 +72,28 @@
 		"common": 3
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 48,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 951,
-		"common": 1
+		"ips": 954,
+		"common": 2
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14232,
-		"common": 11
+		"ips": 14229,
+		"common": 12
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4028,
-		"common": 3
+		"ips": 4032,
+		"common": 4
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -230,8 +236,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40075,
-		"common": 5
+		"ips": 40082,
+		"common": 6
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -248,8 +254,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394783,
-		"common": 13
+		"ips": 9394779,
+		"common": 14
 	},
 	{
 		"name": "firehol_webserver",
@@ -428,7 +434,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5022,
+		"ips": 5018,
 		"common": 4
 	},
 	{
