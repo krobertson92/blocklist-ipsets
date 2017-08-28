@@ -152,13 +152,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28615,
-		"common": 1358
+		"ips": 28461,
+		"common": 1357
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8804,
+		"ips": 8790,
 		"common": 3
 	},
 	{
@@ -170,19 +170,19 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2142,
+		"ips": 2117,
 		"common": 82
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14189,
+		"ips": 14173,
 		"common": 1326
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13049,
+		"ips": 12936,
 		"common": 20
 	},
 	{
@@ -728,8 +728,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40180,
-		"common": 19551
+		"ips": 40177,
+		"common": 19548
 	},
 	{
 		"name": "firehol_level1",
@@ -740,8 +740,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36545,
-		"common": 1379
+		"ips": 36391,
+		"common": 1378
 	},
 	{
 		"name": "firehol_level3",
@@ -758,8 +758,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27879,
-		"common": 19457
+		"ips": 27876,
+		"common": 19454
 	},
 	{
 		"name": "firehol_webclient",
@@ -1461,7 +1461,7 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 70
+		"common": 68
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -1478,8 +1478,8 @@
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4846,
-		"common": 3960
+		"ips": 4841,
+		"common": 3955
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1551,25 +1551,25 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 80
+		"common": 79
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1070,
-		"common": 683
+		"ips": 1071,
+		"common": 684
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6122,
-		"common": 4377
+		"ips": 6119,
+		"common": 4374
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3101,
-		"common": 2138
+		"ips": 3100,
+		"common": 2137
 	},
 	{
 		"name": "stopforumspam",
