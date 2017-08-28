@@ -104,25 +104,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7823,
+		"ips": 7832,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9465,
+		"ips": 9459,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30542,
+		"ips": 30546,
 		"common": 14
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14473,
+		"ips": 14477,
 		"common": 7
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40364,
+		"ips": 40361,
 		"common": 621
 	},
 	{
@@ -686,7 +686,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34183,
+		"ips": 34184,
 		"common": 54
 	},
 	{
@@ -1034,8 +1034,8 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 1529339,
-		"common": 618
+		"ips": 1545212,
+		"common": 621
 	},
 	{
 		"name": "malwaredomainlist",
@@ -1274,7 +1274,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 132,
+		"ips": 133,
 		"common": 1
 	},
 	{
@@ -1538,7 +1538,13 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 364,
+		"ips": 359,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 256,
 		"common": 1
 	},
 	{

@@ -338,7 +338,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34183,
+		"ips": 34184,
 		"common": 1
 	},
 	{
@@ -530,32 +530,38 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 364,
+		"ips": 359,
 		"common": 10
 	},
 	{
 		"name": "urandomusto_mailer",
 		"category": "spam",
-		"ips": 166,
-		"common": 1
+		"ips": 169,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_ntp",
 		"category": "attacks",
-		"ips": 45,
+		"ips": 47,
 		"common": 4
 	},
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 182,
+		"ips": 189,
+		"common": 1
+	},
+	{
+		"name": "urandomusto_smb",
+		"category": "attacks",
+		"ips": 54,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 404,
-		"common": 2
+		"ips": 396,
+		"common": 1
 	},
 	{
 		"name": "voipbl",
