@@ -20,7 +20,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1125,
+		"ips": 1073,
 		"common": 1
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
-		"ips": 3380,
+		"ips": 3734,
 		"common": 1
 	},
 	{
@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33847,
-		"common": 108
+		"ips": 33858,
+		"common": 106
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -62,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20903,
+		"ips": 20900,
 		"common": 2
 	},
 	{
@@ -224,8 +224,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42330,
-		"common": 108
+		"ips": 42343,
+		"common": 106
 	},
 	{
 		"name": "firehol_level3",
@@ -236,14 +236,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394826,
+		"ips": 9394824,
 		"common": 10
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740922,
-		"common": 40
+		"ips": 34740866,
+		"common": 39
 	},
 	{
 		"name": "gofferje_sip",
@@ -267,7 +267,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656159907,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -339,7 +339,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 37
+		"common": 36
 	},
 	{
 		"name": "sorbs_dul",
@@ -381,6 +381,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 31443,
-		"common": 68
+		"common": 66
 	}
 ]

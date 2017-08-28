@@ -32,7 +32,7 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 108,
+		"ips": 106,
 		"common": 25
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "bambenek_pykspa",
 		"category": "malware",
-		"ips": 3,
+		"ips": 4,
 		"common": 1
 	},
 	{
@@ -66,16 +66,10 @@
 		"common": 4
 	},
 	{
-		"name": "bambenek_ranbyus",
-		"category": "malware",
-		"ips": 1,
-		"common": 1
-	},
-	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 111,
-		"common": 20
+		"ips": 125,
+		"common": 23
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -98,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20903,
+		"ips": 20900,
 		"common": 2
 	},
 	{
@@ -272,20 +266,20 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394826,
+		"ips": 9394824,
 		"common": 103
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34187,
-		"common": 4
+		"ips": 34186,
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740922,
-		"common": 672
+		"ips": 34740866,
+		"common": 670
 	},
 	{
 		"name": "fullbogons",
@@ -326,8 +320,8 @@
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 27074,
-		"common": 320
+		"ips": 26929,
+		"common": 327
 	},
 	{
 		"name": "hphosts_grm",
@@ -356,8 +350,8 @@
 	{
 		"name": "hphosts_psh",
 		"category": "reputation",
-		"ips": 30917,
-		"common": 285
+		"ips": 31000,
+		"common": 284
 	},
 	{
 		"name": "hphosts_wrz",
@@ -549,12 +543,6 @@
 		"name": "ransomware_locky_c2",
 		"category": "malware",
 		"ips": 275,
-		"common": 1
-	},
-	{
-		"name": "ransomware_online",
-		"category": "malware",
-		"ips": 135,
 		"common": 1
 	},
 	{
