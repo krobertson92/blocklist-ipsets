@@ -80,7 +80,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1311,
+		"ips": 1269,
 		"common": 97
 	},
 	{
@@ -230,7 +230,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20910,
+		"ips": 20918,
 		"common": 35
 	},
 	{
@@ -470,8 +470,8 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 17941,
-		"common": 420
+		"ips": 17270,
+		"common": 399
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -488,7 +488,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6583,
+		"ips": 6608,
 		"common": 527
 	},
 	{
@@ -626,8 +626,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40272,
-		"common": 594
+		"ips": 40360,
+		"common": 595
 	},
 	{
 		"name": "firehol_level1",
@@ -638,7 +638,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41974,
+		"ips": 41978,
 		"common": 326
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394837,
+		"ips": 9394845,
 		"common": 799
 	},
 	{
@@ -662,7 +662,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34186,
+		"ips": 34185,
 		"common": 187
 	},
 	{
@@ -698,7 +698,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1439,
+		"ips": 1440,
 		"common": 86
 	},
 	{
@@ -1046,7 +1046,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39254,
+		"ips": 39224,
 		"common": 11
 	},
 	{
@@ -1190,7 +1190,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 135,
+		"ips": 134,
 		"common": 2
 	},
 	{
@@ -1400,8 +1400,8 @@
 	{
 		"name": "urandomusto_ftp",
 		"category": "attacks",
-		"ips": 189,
-		"common": 5
+		"ips": 187,
+		"common": 4
 	},
 	{
 		"name": "urandomusto_http",
@@ -1448,8 +1448,14 @@
 	{
 		"name": "urandomusto_unspecified",
 		"category": "attacks",
-		"ips": 173,
-		"common": 67
+		"ips": 174,
+		"common": 66
+	},
+	{
+		"name": "urandomusto_vnc",
+		"category": "attacks",
+		"ips": 16,
+		"common": 1
 	},
 	{
 		"name": "uscert_hidden_cobra",
