@@ -224,14 +224,14 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 256,
-		"common": 2
+		"ips": 255,
+		"common": 1
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
-		"ips": 26,
-		"common": 2
+		"ips": 25,
+		"common": 1
 	},
 	{
 		"name": "dataplane_sshclient",
@@ -476,7 +476,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40360,
+		"ips": 40364,
 		"common": 4
 	},
 	{
@@ -506,7 +506,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27912,
+		"ips": 27916,
 		"common": 1
 	},
 	{

@@ -578,13 +578,13 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 256,
+		"ips": 255,
 		"common": 15
 	},
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
-		"ips": 26,
+		"ips": 25,
 		"common": 2
 	},
 	{
@@ -596,7 +596,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 470,
+		"ips": 471,
 		"common": 96
 	},
 	{
@@ -620,8 +620,8 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 449,
-		"common": 27
+		"ips": 448,
+		"common": 26
 	},
 	{
 		"name": "dm_tor",
@@ -920,7 +920,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40360,
+		"ips": 40364,
 		"common": 1830
 	},
 	{
@@ -950,7 +950,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27912,
+		"ips": 27916,
 		"common": 786
 	},
 	{
@@ -1818,27 +1818,21 @@
 		"common": 105
 	},
 	{
-		"name": "socks_proxy",
-		"category": "anonymizers",
-		"ips": 80,
-		"common": 1
-	},
-	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1505,
+		"ips": 1513,
 		"common": 18
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8788,
+		"ips": 8791,
 		"common": 107
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4832,
+		"ips": 4836,
 		"common": 58
 	},
 	{
@@ -1916,25 +1910,25 @@
 	{
 		"name": "sslproxies",
 		"category": "anonymizers",
-		"ips": 100,
-		"common": 8
+		"ips": 99,
+		"common": 7
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1010,
+		"ips": 1012,
 		"common": 28
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6167,
+		"ips": 6168,
 		"common": 165
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3113,
+		"ips": 3114,
 		"common": 76
 	},
 	{

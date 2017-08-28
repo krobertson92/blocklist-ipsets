@@ -81,7 +81,7 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 33465,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "blocklist_de_apache",
@@ -105,19 +105,13 @@
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
 		"ips": 12727,
-		"common": 4
-	},
-	{
-		"name": "blocklist_net_ua",
-		"category": "abuse",
-		"ips": 20917,
-		"common": 1
+		"common": 3
 	},
 	{
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1140,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "ciarmy",
@@ -188,8 +182,8 @@
 	{
 		"name": "dataplane_dnsrdany",
 		"category": "attacks",
-		"ips": 26,
-		"common": 26
+		"ips": 25,
+		"common": 25
 	},
 	{
 		"name": "dataplane_dnsversion",
@@ -200,14 +194,14 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 470,
+		"ips": 471,
 		"common": 75
 	},
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 17270,
-		"common": 76
+		"common": 75
 	},
 	{
 		"name": "dataplane_sshpwauth",
@@ -218,7 +212,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 449,
+		"ips": 448,
 		"common": 50
 	},
 	{
@@ -243,37 +237,37 @@
 		"name": "dshield_1d",
 		"category": "attacks",
 		"ips": 7424,
-		"common": 112
+		"common": 111
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 28160,
-		"common": 141
+		"common": 140
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 13056,
-		"common": 132
+		"common": 131
 	},
 	{
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24580703,
-		"common": 115
+		"common": 114
 	},
 	{
 		"name": "et_compromised",
 		"category": "attacks",
 		"ips": 1142,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 115
+		"common": 114
 	},
 	{
 		"name": "firehol_abusers_1d",
@@ -297,19 +291,19 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 41978,
-		"common": 131
+		"common": 130
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 114917,
-		"common": 198
+		"common": 197
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9394844,
-		"common": 8
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
@@ -447,7 +441,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11085,
-		"common": 55
+		"common": 54
 	},
 	{
 		"name": "talosintel_ipfilter",
@@ -471,7 +465,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 17102,
-		"common": 180
+		"common": 179
 	},
 	{
 		"name": "urandomusto_dns",
