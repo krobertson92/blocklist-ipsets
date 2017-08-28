@@ -98,20 +98,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7761,
-		"common": 7761
+		"ips": 7795,
+		"common": 7795
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9432,
-		"common": 9432
+		"ips": 9446,
+		"common": 9446
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14448,
-		"common": 14448
+		"ips": 14452,
+		"common": 14452
 	},
 	{
 		"name": "blocklist_de",
@@ -447,7 +447,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24580703,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "et_compromised",
@@ -474,6 +474,12 @@
 		"common": 132
 	},
 	{
+		"name": "feodo",
+		"category": "malware",
+		"ips": 999,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 40075,
@@ -488,14 +494,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40327,
+		"ips": 40328,
 		"common": 136
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652294921,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "firehol_level2",
@@ -507,7 +513,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 114901,
-		"common": 31
+		"common": 32
 	},
 	{
 		"name": "firehol_level4",
@@ -518,14 +524,14 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27898,
+		"ips": 27899,
 		"common": 8
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 34188,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "firehol_webserver",
@@ -723,7 +729,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612688,
-		"common": 1502
+		"common": 1509
 	},
 	{
 		"name": "iblocklist_level3",
@@ -801,7 +807,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 38
+		"common": 39
 	},
 	{
 		"name": "lashback_ubl",
@@ -860,19 +866,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1502,
+		"ips": 1485,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8781,
+		"ips": 8782,
 		"common": 4
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4824,
+		"ips": 4823,
 		"common": 4
 	},
 	{
@@ -885,7 +891,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 7545
+		"common": 7546
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -922,6 +928,12 @@
 		"category": "reputation",
 		"ips": 24639744,
 		"common": 7
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2972,
+		"common": 1
 	},
 	{
 		"name": "sslproxies_30d",

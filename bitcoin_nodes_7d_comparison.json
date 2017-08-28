@@ -86,20 +86,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7761,
-		"common": 7761
+		"ips": 7795,
+		"common": 7795
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 9432,
-		"common": 9432
+		"ips": 9446,
+		"common": 9446
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30510,
-		"common": 14448
+		"ips": 30521,
+		"common": 14452
 	},
 	{
 		"name": "blocklist_de",
@@ -369,7 +369,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24580703,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "et_dshield",
@@ -390,6 +390,12 @@
 		"common": 116
 	},
 	{
+		"name": "feodo",
+		"category": "malware",
+		"ips": 999,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 40075,
@@ -404,14 +410,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40327,
+		"ips": 40328,
 		"common": 115
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 652294921,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "firehol_level2",
@@ -423,7 +429,7 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 114901,
-		"common": 22
+		"common": 23
 	},
 	{
 		"name": "firehol_level4",
@@ -434,20 +440,20 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27898,
+		"ips": 27899,
 		"common": 2
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
 		"ips": 34188,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740922,
-		"common": 1996
+		"common": 1995
 	},
 	{
 		"name": "fullbogons",
@@ -459,7 +465,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1096017,
-		"common": 221
+		"common": 220
 	},
 	{
 		"name": "gpf_comics",
@@ -633,13 +639,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612688,
-		"common": 1163
+		"common": 1170
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139013541,
-		"common": 642
+		"common": 641
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -681,7 +687,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4061163,
-		"common": 40
+		"common": 39
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -711,7 +717,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 29
+		"common": 30
 	},
 	{
 		"name": "lashback_ubl",
@@ -729,7 +735,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 1970
+		"common": 1969
 	},
 	{
 		"name": "snort_ipfilter",
@@ -740,13 +746,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8781,
+		"ips": 8782,
 		"common": 2
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4824,
+		"ips": 4823,
 		"common": 2
 	},
 	{
@@ -759,7 +765,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 2932
+		"common": 2931
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -796,6 +802,12 @@
 		"category": "reputation",
 		"ips": 24639744,
 		"common": 7
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 2972,
+		"common": 1
 	},
 	{
 		"name": "stopforumspam",
