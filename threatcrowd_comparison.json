@@ -242,7 +242,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21137,
+		"ips": 21128,
 		"common": 10
 	},
 	{
@@ -458,8 +458,8 @@
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 153,
-		"common": 8
+		"ips": 152,
+		"common": 7
 	},
 	{
 		"name": "dataplane_sipquery",
@@ -806,7 +806,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395302,
+		"ips": 9395293,
 		"common": 396
 	},
 	{
@@ -1230,6 +1230,12 @@
 		"common": 1
 	},
 	{
+		"name": "nixspam",
+		"category": "spam",
+		"ips": 39403,
+		"common": 1
+	},
+	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -1250,7 +1256,7 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 25,
+		"ips": 24,
 		"common": 1
 	},
 	{
