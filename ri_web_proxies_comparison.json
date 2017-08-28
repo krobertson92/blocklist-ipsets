@@ -44,7 +44,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21251,
+		"ips": 21224,
 		"common": 3
 	},
 	{
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395417,
+		"ips": 9395391,
 		"common": 26
 	},
 	{
@@ -260,7 +260,7 @@
 	{
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
-		"ips": 4279295,
+		"ips": 4061163,
 		"common": 1
 	},
 	{
@@ -290,7 +290,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 13169,
+		"ips": 13276,
 		"common": 5
 	},
 	{
@@ -486,9 +486,15 @@
 		"common": 36
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1482,
+		"ips": 1481,
 		"common": 26
 	},
 	{
