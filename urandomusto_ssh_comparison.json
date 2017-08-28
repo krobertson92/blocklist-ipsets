@@ -44,13 +44,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33995,
+		"ips": 34101,
 		"common": 131
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8774,
+		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12637,
+		"ips": 12688,
 		"common": 129
 	},
 	{
@@ -62,7 +68,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20931,
+		"ips": 20934,
 		"common": 26
 	},
 	{
@@ -188,13 +194,13 @@
 	{
 		"name": "dataplane_sshclient",
 		"category": "attacks",
-		"ips": 17272,
+		"ips": 17259,
 		"common": 128
 	},
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 15599,
+		"ips": 15590,
 		"common": 92
 	},
 	{
@@ -308,13 +314,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652282629,
+		"ips": 652282633,
 		"common": 4
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42461,
+		"ips": 42566,
 		"common": 141
 	},
 	{
@@ -326,7 +332,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394839,
+		"ips": 9394842,
 		"common": 60
 	},
 	{
