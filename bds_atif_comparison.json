@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28847,
+		"ips": 28895,
 		"common": 423
 	},
 	{
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21332,
+		"ips": 21308,
 		"common": 121
 	},
 	{
@@ -216,63 +216,51 @@
 		"common": 2
 	},
 	{
-		"name": "cleantalk",
-		"category": "abuse",
-		"ips": 2396,
-		"common": 1
-	},
-	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 30740,
+		"ips": 30661,
 		"common": 48
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121055,
+		"ips": 121049,
 		"common": 163
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66412,
+		"ips": 66399,
 		"common": 102
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19874,
+		"ips": 19881,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 4781,
-		"common": 1
-	},
-	{
-		"name": "cleantalk_updated",
-		"category": "abuse",
-		"ips": 2000,
+		"ips": 4783,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 35939,
+		"ips": 35805,
 		"common": 59
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158727,
+		"ips": 158692,
 		"common": 184
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 85090,
+		"ips": 85066,
 		"common": 117
 	},
 	{
@@ -333,7 +321,7 @@
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
 		"ips": 441,
-		"common": 86
+		"common": 84
 	},
 	{
 		"name": "dm_tor",
@@ -578,13 +566,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 38295,
+		"ips": 38176,
 		"common": 90
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 263482,
+		"ips": 263469,
 		"common": 212
 	},
 	{
@@ -602,7 +590,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36730,
+		"ips": 36778,
 		"common": 558
 	},
 	{
@@ -614,7 +602,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395500,
+		"ips": 9395476,
 		"common": 525
 	},
 	{
@@ -890,7 +878,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 12489,
+		"ips": 12543,
 		"common": 55
 	},
 	{
@@ -1190,8 +1178,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 235,
-		"common": 22
+		"ips": 247,
+		"common": 27
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 237,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
