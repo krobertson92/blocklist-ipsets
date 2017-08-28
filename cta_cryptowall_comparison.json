@@ -68,13 +68,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33518,
+		"ips": 33465,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19344,
+		"ips": 19361,
 		"common": 2
 	},
 	{
@@ -132,40 +132,52 @@
 		"common": 96
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2442,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32171,
-		"common": 2
+		"ips": 32189,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121007,
-		"common": 10
+		"ips": 121000,
+		"common": 11
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66208,
-		"common": 7
+		"ips": 66224,
+		"common": 8
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 36855,
-		"common": 2
+		"ips": 36845,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158758,
-		"common": 11
+		"ips": 158746,
+		"common": 12
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 84454,
-		"common": 7
+		"ips": 84456,
+		"common": 8
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -183,12 +195,6 @@
 		"name": "dataplane_sshclient",
 		"category": "attacks",
 		"ips": 17941,
-		"common": 1
-	},
-	{
-		"name": "dataplane_sshpwauth",
-		"category": "attacks",
-		"ips": 16183,
 		"common": 1
 	},
 	{
@@ -242,19 +248,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40177,
-		"common": 2
+		"ips": 40200,
+		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 262601,
-		"common": 11
+		"ips": 262603,
+		"common": 12
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40269,
+		"ips": 40272,
 		"common": 1
 	},
 	{
@@ -266,7 +272,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42029,
+		"ips": 41974,
 		"common": 3
 	},
 	{
@@ -284,13 +290,13 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27909,
+		"ips": 27912,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34188,
+		"ips": 34186,
 		"common": 9
 	},
 	{
@@ -506,7 +512,7 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 137,
+		"ips": 135,
 		"common": 6
 	},
 	{
@@ -518,13 +524,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8785,
+		"ips": 8788,
 		"common": 1
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4826,
+		"ips": 4830,
 		"common": 1
 	},
 	{

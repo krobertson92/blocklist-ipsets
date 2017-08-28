@@ -98,8 +98,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33518,
+		"ips": 33465,
 		"common": 7
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8768,
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_bruteforce",
@@ -116,7 +122,7 @@
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19344,
+		"ips": 19361,
 		"common": 3
 	},
 	{
@@ -218,37 +224,37 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32171,
+		"ips": 32189,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 121007,
+		"ips": 121000,
 		"common": 27
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66208,
+		"ips": 66224,
 		"common": 18
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 36855,
+		"ips": 36845,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158758,
+		"ips": 158746,
 		"common": 27
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 84454,
+		"ips": 84456,
 		"common": 18
 	},
 	{
@@ -284,7 +290,7 @@
 	{
 		"name": "dataplane_sshpwauth",
 		"category": "attacks",
-		"ips": 16183,
+		"ips": 15586,
 		"common": 2
 	},
 	{
@@ -392,13 +398,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40177,
+		"ips": 40200,
 		"common": 6
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 262601,
+		"ips": 262603,
 		"common": 33
 	},
 	{
@@ -410,7 +416,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42029,
+		"ips": 41974,
 		"common": 12
 	},
 	{
@@ -428,8 +434,8 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34188,
-		"common": 163
+		"ips": 34186,
+		"common": 161
 	},
 	{
 		"name": "firehol_webserver",
@@ -764,8 +770,8 @@
 	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 137,
-		"common": 137
+		"ips": 135,
+		"common": 135
 	},
 	{
 		"name": "ransomware_rw",
