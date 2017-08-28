@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21036,
+		"ips": 21125,
 		"common": 24
 	},
 	{
@@ -230,25 +230,25 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 2425,
+		"ips": 2434,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32509,
+		"ips": 32451,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120888,
+		"ips": 120885,
 		"common": 27
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66161,
+		"ips": 66165,
 		"common": 18
 	},
 	{
@@ -260,19 +260,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37876,
+		"ips": 37794,
 		"common": 4
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158529,
+		"ips": 158539,
 		"common": 27
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 84441,
+		"ips": 84433,
 		"common": 18
 	},
 	{
@@ -416,13 +416,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40193,
+		"ips": 40126,
 		"common": 6
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 262906,
+		"ips": 262920,
 		"common": 33
 	},
 	{
@@ -440,13 +440,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 117538,
+		"ips": 117525,
 		"common": 37
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395197,
+		"ips": 9395286,
 		"common": 318
 	},
 	{
@@ -459,7 +459,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740970,
-		"common": 3926
+		"common": 3927
 	},
 	{
 		"name": "fullbogons",
@@ -495,7 +495,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26972,
-		"common": 3570
+		"common": 3571
 	},
 	{
 		"name": "hphosts_exp",
@@ -645,13 +645,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691464,
-		"common": 201
+		"common": 202
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346612688,
-		"common": 260
+		"common": 261
 	},
 	{
 		"name": "iblocklist_level3",
@@ -748,12 +748,6 @@
 		"category": "malware",
 		"ips": 1029,
 		"common": 28
-	},
-	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 38301,
-		"common": 1
 	},
 	{
 		"name": "nullsecure",

@@ -188,8 +188,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21036,
-		"common": 161
+		"ips": 21125,
+		"common": 171
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -290,43 +290,43 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32509,
-		"common": 19
+		"ips": 32451,
+		"common": 18
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120888,
+		"ips": 120885,
 		"common": 140
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66161,
+		"ips": 66165,
 		"common": 86
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19903,
+		"ips": 19892,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37876,
-		"common": 19
+		"ips": 37794,
+		"common": 18
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158529,
+		"ips": 158539,
 		"common": 164
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 84441,
+		"ips": 84433,
 		"common": 93
 	},
 	{
@@ -444,6 +444,12 @@
 		"common": 3
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 897,
+		"common": 1
+	},
+	{
 		"name": "dyndns_ponmocup",
 		"category": "malware",
 		"ips": 179,
@@ -524,19 +530,19 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40193,
-		"common": 23
+		"ips": 40126,
+		"common": 22
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 262906,
+		"ips": 262920,
 		"common": 181
 	},
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40302,
+		"ips": 40304,
 		"common": 6
 	},
 	{
@@ -554,19 +560,19 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 117538,
-		"common": 69
+		"ips": 117525,
+		"common": 70
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395197,
-		"common": 1546
+		"ips": 9395286,
+		"common": 1554
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27901,
+		"ips": 27903,
 		"common": 4
 	},
 	{
@@ -614,7 +620,7 @@
 	{
 		"name": "haley_ssh",
 		"category": "attacks",
-		"ips": 22895,
+		"ips": 22902,
 		"common": 9
 	},
 	{
@@ -954,12 +960,6 @@
 		"common": 1
 	},
 	{
-		"name": "nixspam",
-		"category": "spam",
-		"ips": 38301,
-		"common": 3
-	},
-	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
@@ -1028,7 +1028,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5019,
+		"ips": 5020,
 		"common": 768
 	},
 	{
