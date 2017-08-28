@@ -2,7 +2,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1124,
+		"ips": 1152,
 		"common": 1
 	},
 	{
@@ -26,20 +26,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32365,
-		"common": 13
+		"ips": 32432,
+		"common": 14
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2071,
+		"ips": 2078,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18060,
-		"common": 13
+		"ips": 18151,
+		"common": 14
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -212,8 +212,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40285,
-		"common": 13
+		"ips": 40353,
+		"common": 14
 	},
 	{
 		"name": "firehol_level3",
@@ -350,8 +350,14 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39390,
+		"ips": 39346,
 		"common": 3
+	},
+	{
+		"name": "packetmail_mail",
+		"category": "reputation",
+		"ips": 164,
+		"common": 1
 	},
 	{
 		"name": "php_commenters",
