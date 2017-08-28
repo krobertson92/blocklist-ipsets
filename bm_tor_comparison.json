@@ -87,7 +87,7 @@
 		"name": "bitcoin_nodes",
 		"category": "organizations",
 		"ips": 7649,
-		"common": 95
+		"common": 94
 	},
 	{
 		"name": "bitcoin_nodes_1d",
@@ -98,13 +98,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30468,
+		"ips": 30467,
 		"common": 130
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14405,
+		"ips": 14403,
 		"common": 113
 	},
 	{
@@ -116,19 +116,19 @@
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 8809,
+		"ips": 8810,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14071,
+		"ips": 14086,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13008,
+		"ips": 13036,
 		"common": 13
 	},
 	{
@@ -914,13 +914,13 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8784,
+		"ips": 8781,
 		"common": 3
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4847,
+		"ips": 4849,
 		"common": 2
 	},
 	{
@@ -974,13 +974,13 @@
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6110,
+		"ips": 6112,
 		"common": 9
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3104,
+		"ips": 3105,
 		"common": 3
 	},
 	{
@@ -1088,8 +1088,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 272,
+		"ips": 277,
 		"common": 1
+	},
+	{
+		"name": "urandomusto_ssh",
+		"category": "attacks",
+		"ips": 197,
+		"common": 3
 	},
 	{
 		"name": "voipbl",
