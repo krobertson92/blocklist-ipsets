@@ -326,7 +326,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 13057,
+		"ips": 13039,
 		"common": 181
 	},
 	{
@@ -338,8 +338,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21181,
-		"common": 373
+		"ips": 21173,
+		"common": 372
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -920,7 +920,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40145,
+		"ips": 40146,
 		"common": 1833
 	},
 	{
@@ -944,13 +944,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395354,
-		"common": 920954
+		"ips": 9395346,
+		"common": 920953
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27849,
+		"ips": 27850,
 		"common": 787
 	},
 	{
@@ -1094,8 +1094,8 @@
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
-		"ips": 656158627,
-		"common": 207564
+		"ips": 656159907,
+		"common": 208140
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -1812,21 +1812,27 @@
 		"common": 105
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 1
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1490,
+		"ips": 1491,
 		"common": 19
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8778,
+		"ips": 8779,
 		"common": 107
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4842,
+		"ips": 4841,
 		"common": 58
 	},
 	{
