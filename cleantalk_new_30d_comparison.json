@@ -62,13 +62,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 28736,
-		"common": 212
+		"ips": 28554,
+		"common": 209
+	},
+	{
+		"name": "blocklist_de_apache",
+		"category": "attacks",
+		"ips": 8829,
+		"common": 20
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 139,
+		"ips": 140,
 		"common": 7
 	},
 	{
@@ -80,14 +86,20 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 566,
-		"common": 106
+		"ips": 568,
+		"common": 105
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2234,
+		"ips": 2219,
 		"common": 13
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 14121,
+		"common": 64
 	},
 	{
 		"name": "blocklist_de_ssh",
@@ -98,8 +110,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21173,
-		"common": 89
+		"ips": 21176,
+		"common": 90
 	},
 	{
 		"name": "blueliv_crimeserver_last_1d",
@@ -302,8 +314,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6515,
-		"common": 83
+		"ips": 6501,
+		"common": 84
 	},
 	{
 		"name": "dragon_http",
@@ -482,7 +494,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40146,
+		"ips": 40244,
 		"common": 1929
 	},
 	{
@@ -494,8 +506,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36576,
-		"common": 227
+		"ips": 36398,
+		"common": 224
 	},
 	{
 		"name": "firehol_level3",
@@ -506,8 +518,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395346,
-		"common": 2307
+		"ips": 9395349,
+		"common": 2308
 	},
 	{
 		"name": "firehol_proxies",
@@ -542,8 +554,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1529,
-		"common": 31
+		"ips": 1525,
+		"common": 32
 	},
 	{
 		"name": "haley_ssh",
@@ -806,8 +818,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 14058,
-		"common": 40
+		"ips": 14124,
+		"common": 39
 	},
 	{
 		"name": "nullsecure",
