@@ -27,13 +27,13 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 4765,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3095,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "bi_ssh_2_30d",
@@ -42,10 +42,16 @@
 		"common": 1
 	},
 	{
+		"name": "bi_voip_2_30d",
+		"category": "attacks",
+		"ips": 8,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 32554,
-		"common": 94
+		"ips": 32493,
+		"common": 96
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -56,7 +62,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21048,
+		"ips": 21027,
 		"common": 1
 	},
 	{
@@ -69,7 +75,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 10870,
-		"common": 9
+		"common": 10
 	},
 	{
 		"name": "dataplane_sipinvitation",
@@ -81,7 +87,7 @@
 		"name": "dataplane_sipquery",
 		"category": "attacks",
 		"ips": 472,
-		"common": 16
+		"common": 17
 	},
 	{
 		"name": "dataplane_sipregistration",
@@ -164,26 +170,26 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40473,
-		"common": 94
+		"ips": 40406,
+		"common": 96
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 114175,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394950,
+		"ips": 9394907,
 		"common": 10
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740925,
-		"common": 36
+		"common": 37
 	},
 	{
 		"name": "gofferje_sip",
@@ -194,8 +200,8 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1940,
-		"common": 1
+		"ips": 1929,
+		"common": 2
 	},
 	{
 		"name": "haley_ssh",
@@ -225,7 +231,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691464,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "iblocklist_level2",
@@ -264,6 +270,12 @@
 		"common": 3
 	},
 	{
+		"name": "jigsaw_attacks",
+		"category": "attacks",
+		"ips": 27109,
+		"common": 1
+	},
+	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
@@ -273,7 +285,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "sorbs_dul",
@@ -315,6 +327,6 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 31412,
-		"common": 60
+		"common": 62
 	}
 ]
