@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 40225,
+		"ips": 40311,
 		"common": 10
 	},
 	{
@@ -824,8 +824,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 285,
-		"common": 30
+		"ips": 293,
+		"common": 29
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 159,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ntp",
@@ -836,7 +842,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 179,
+		"ips": 178,
 		"common": 42
 	},
 	{
@@ -848,14 +854,14 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 209,
+		"ips": 208,
 		"common": 3
 	},
 	{
 		"name": "urandomusto_telnet",
 		"category": "attacks",
-		"ips": 390,
-		"common": 20
+		"ips": 385,
+		"common": 17
 	},
 	{
 		"name": "urandomusto_unspecified",
