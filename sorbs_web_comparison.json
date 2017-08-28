@@ -14,13 +14,19 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 113,
+		"ips": 107,
 		"common": 1
 	},
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 408,
+		"common": 1
+	},
+	{
+		"name": "bambenek_simda",
+		"category": "malware",
+		"ips": 130,
 		"common": 1
 	},
 	{
@@ -194,7 +200,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21046,
+		"ips": 21050,
 		"common": 610
 	},
 	{
@@ -752,7 +758,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394965,
+		"ips": 9394968,
 		"common": 5618
 	},
 	{
@@ -1172,7 +1178,7 @@
 	{
 		"name": "packetmail",
 		"category": "reputation",
-		"ips": 2847,
+		"ips": 2894,
 		"common": 41
 	},
 	{
@@ -1568,8 +1574,8 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1073,
-		"common": 17
+		"ips": 1069,
+		"common": 16
 	},
 	{
 		"name": "sslproxies_30d",
