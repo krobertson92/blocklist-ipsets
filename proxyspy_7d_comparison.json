@@ -38,13 +38,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33066,
+		"ips": 33261,
 		"common": 6
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 18771,
+		"ips": 18912,
 		"common": 6
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41740,
+		"ips": 41936,
 		"common": 6
 	},
 	{
@@ -452,14 +452,20 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39288,
-		"common": 6
+		"ips": 39281,
+		"common": 4
 	},
 	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
 		"common": 2
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 2116,
+		"common": 1
 	},
 	{
 		"name": "php_commenters",
