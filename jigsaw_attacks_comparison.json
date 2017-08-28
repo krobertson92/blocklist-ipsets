@@ -80,8 +80,8 @@
 	{
 		"name": "bambenek_banjori",
 		"category": "malware",
-		"ips": 115,
-		"common": 18
+		"ips": 113,
+		"common": 17
 	},
 	{
 		"name": "bambenek_c2",
@@ -104,8 +104,8 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 130,
-		"common": 69
+		"ips": 124,
+		"common": 66
 	},
 	{
 		"name": "bambenek_suppobox",
@@ -272,7 +272,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21128,
+		"ips": 21127,
 		"common": 31
 	},
 	{
@@ -498,6 +498,12 @@
 		"common": 21
 	},
 	{
+		"name": "dataplane_dnsrdany",
+		"category": "attacks",
+		"ips": 27,
+		"common": 1
+	},
+	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
 		"ips": 152,
@@ -584,7 +590,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2928,
+		"ips": 2929,
 		"common": 15
 	},
 	{
@@ -824,7 +830,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395293,
+		"ips": 9395034,
 		"common": 1377
 	},
 	{
@@ -1190,7 +1196,7 @@
 	{
 		"name": "iblocklist_webexploit",
 		"category": "reputation",
-		"ips": 15418,
+		"ips": 15159,
 		"common": 2
 	},
 	{
@@ -1358,7 +1364,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5019,
+		"ips": 5020,
 		"common": 91
 	},
 	{
@@ -1598,8 +1604,8 @@
 	{
 		"name": "urandomusto_dns",
 		"category": "attacks",
-		"ips": 19,
-		"common": 2
+		"ips": 20,
+		"common": 3
 	},
 	{
 		"name": "urandomusto_ftp",

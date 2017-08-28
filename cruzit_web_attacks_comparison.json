@@ -134,7 +134,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21128,
+		"ips": 21127,
 		"common": 32
 	},
 	{
@@ -300,6 +300,12 @@
 		"common": 1
 	},
 	{
+		"name": "dataplane_dnsrdany",
+		"category": "attacks",
+		"ips": 27,
+		"common": 1
+	},
+	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
 		"ips": 152,
@@ -381,6 +387,12 @@
 		"name": "dronebl_ddos_drones",
 		"category": "attacks",
 		"ips": 367057,
+		"common": 1
+	},
+	{
+		"name": "dronebl_dns_mx_on_irc",
+		"category": "reputation",
+		"ips": 2929,
 		"common": 1
 	},
 	{
@@ -488,7 +500,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395293,
+		"ips": 9395034,
 		"common": 7345
 	},
 	{
@@ -788,7 +800,7 @@
 	{
 		"name": "iblocklist_webexploit",
 		"category": "reputation",
-		"ips": 15418,
+		"ips": 15159,
 		"common": 53
 	},
 	{
@@ -998,7 +1010,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5019,
+		"ips": 5020,
 		"common": 5
 	},
 	{
@@ -1180,6 +1192,12 @@
 		"category": "reputation",
 		"ips": 17102,
 		"common": 10
+	},
+	{
+		"name": "urandomusto_dns",
+		"category": "attacks",
+		"ips": 20,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_ftp",
