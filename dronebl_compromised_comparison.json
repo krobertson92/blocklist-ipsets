@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20930,
+		"ips": 20950,
 		"common": 114
 	},
 	{
@@ -96,46 +96,58 @@
 		"common": 2
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2457,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 32881,
-		"common": 24
+		"ips": 32921,
+		"common": 25
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120959,
+		"ips": 120977,
 		"common": 148
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66103,
-		"common": 59
+		"ips": 66100,
+		"common": 60
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19803,
+		"ips": 19802,
 		"common": 4
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 37650,
-		"common": 24
+		"ips": 37716,
+		"common": 25
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158691,
+		"ips": 158701,
 		"common": 150
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 84325,
-		"common": 59
+		"ips": 84322,
+		"common": 60
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -194,7 +206,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2932,
+		"ips": 2933,
 		"common": 3
 	},
 	{
@@ -242,13 +254,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 41208,
-		"common": 25
+		"ips": 41262,
+		"common": 26
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 262617,
+		"ips": 262627,
 		"common": 177
 	},
 	{
@@ -278,7 +290,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394842,
+		"ips": 9394862,
 		"common": 155
 	},
 	{
@@ -482,8 +494,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38460,
-		"common": 34
+		"ips": 38436,
+		"common": 37
 	},
 	{
 		"name": "nullsecure",
