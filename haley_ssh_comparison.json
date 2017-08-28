@@ -218,7 +218,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21032,
+		"ips": 21022,
 		"common": 158
 	},
 	{
@@ -264,27 +264,21 @@
 		"common": 83
 	},
 	{
-		"name": "botscout",
-		"category": "abuse",
-		"ips": 23,
-		"common": 4
-	},
-	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 937,
-		"common": 38
+		"ips": 938,
+		"common": 37
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14258,
+		"ips": 14263,
 		"common": 110
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 3997,
+		"ips": 4000,
 		"common": 85
 	},
 	{
@@ -446,13 +440,13 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 443,
+		"ips": 438,
 		"common": 1
 	},
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6549,
+		"ips": 6543,
 		"common": 83
 	},
 	{
@@ -608,7 +602,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39676,
+		"ips": 39677,
 		"common": 103
 	},
 	{
@@ -620,7 +614,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40256,
+		"ips": 40316,
 		"common": 114
 	},
 	{
@@ -632,7 +626,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 40289,
+		"ips": 40285,
 		"common": 794
 	},
 	{
@@ -644,13 +638,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394933,
+		"ips": 9394928,
 		"common": 22902
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27921,
+		"ips": 27919,
 		"common": 57
 	},
 	{
@@ -692,7 +686,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1937,
+		"ips": 1935,
 		"common": 50
 	},
 	{
@@ -1010,8 +1004,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39416,
-		"common": 9
+		"ips": 39390,
+		"common": 10
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1178,14 +1172,8 @@
 	{
 		"name": "ri_connect_proxies_30d",
 		"category": "anonymizers",
-		"ips": 2302,
+		"ips": 2306,
 		"common": 3
-	},
-	{
-		"name": "ri_connect_proxies_7d",
-		"category": "anonymizers",
-		"ips": 1097,
-		"common": 1
 	},
 	{
 		"name": "ri_web_proxies_30d",
