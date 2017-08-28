@@ -44,13 +44,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33416,
-		"common": 148
+		"ips": 33368,
+		"common": 154
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20846,
+		"ips": 20837,
 		"common": 2
 	},
 	{
@@ -69,7 +69,7 @@
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 14229,
-		"common": 35
+		"common": 36
 	},
 	{
 		"name": "botscout_7d",
@@ -141,19 +141,19 @@
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
 		"ips": 36732,
-		"common": 44
+		"common": 45
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 158758,
-		"common": 72
+		"common": 73
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 84476,
-		"common": 67
+		"common": 68
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -168,40 +168,88 @@
 		"common": 1
 	},
 	{
+		"name": "dragon_http",
+		"category": "attacks",
+		"ips": 59136,
+		"common": 1
+	},
+	{
 		"name": "dronebl_ddos_drones",
 		"category": "attacks",
 		"ips": 367057,
 		"common": 2
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 7680,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 28160,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 13056,
+		"common": 1
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24580703,
+		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
 		"ips": 39991,
-		"common": 54
+		"common": 55
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 263176,
-		"common": 71
+		"common": 72
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 652282633,
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41778,
-		"common": 148
+		"ips": 41729,
+		"common": 154
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 114907,
-		"common": 6
+		"ips": 114917,
+		"common": 7
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394772,
-		"common": 37
+		"ips": 9394764,
+		"common": 38
 	},
 	{
 		"name": "firehol_webclient",
@@ -213,7 +261,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740922,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "gofferje_sip",
@@ -240,6 +288,12 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_badpeers",
+		"category": "reputation",
+		"ips": 1568828,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656159907,
@@ -255,7 +309,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762691464,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level2",
@@ -267,7 +321,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139013541,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -279,7 +333,7 @@
 		"name": "iblocklist_spider",
 		"category": "reputation",
 		"ips": 822305,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "jigsaw_malware",
@@ -315,7 +369,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 11
+		"common": 12
 	},
 	{
 		"name": "sblam",
@@ -394,6 +448,12 @@
 		"category": "abuse",
 		"ips": 537175,
 		"common": 4
+	},
+	{
+		"name": "trustedsec_atif",
+		"category": "reputation",
+		"ips": 1681,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

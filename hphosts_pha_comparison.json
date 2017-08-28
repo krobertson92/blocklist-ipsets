@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20846,
+		"ips": 20837,
 		"common": 14
 	},
 	{
@@ -302,37 +302,37 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40328,
+		"ips": 40330,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652294921,
+		"ips": 652282633,
 		"common": 78
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 41778,
+		"ips": 41729,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 114907,
-		"common": 15
+		"ips": 114917,
+		"common": 16
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394772,
+		"ips": 9394764,
 		"common": 122
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27899,
+		"ips": 27900,
 		"common": 1
 	},
 	{
@@ -350,7 +350,7 @@
 	{
 		"name": "fullbogons",
 		"category": "unrouteable",
-		"ips": 626924168,
+		"ips": 626911880,
 		"common": 2
 	},
 	{
@@ -596,7 +596,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39200,
+		"ips": 39240,
 		"common": 1
 	},
 	{
@@ -620,7 +620,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5022,
+		"ips": 5021,
 		"common": 113
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8782,
+		"ips": 8784,
 		"common": 1
 	},
 	{
@@ -742,6 +742,12 @@
 		"category": "attacks",
 		"ips": 31412,
 		"common": 4
+	},
+	{
+		"name": "vxvault",
+		"category": "malware",
+		"ips": 61,
+		"common": 1
 	},
 	{
 		"name": "xforce_bccs",
