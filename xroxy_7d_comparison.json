@@ -26,31 +26,37 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 33112,
+		"ips": 33255,
 		"common": 11
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 19047,
+		"ips": 19169,
 		"common": 11
+	},
+	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 36,
+		"common": 1
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 953,
-		"common": 7
+		"ips": 951,
+		"common": 6
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 14239,
+		"ips": 14232,
 		"common": 59
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 4029,
+		"ips": 4028,
 		"common": 31
 	},
 	{
@@ -152,8 +158,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 39901,
-		"common": 112
+		"ips": 39903,
+		"common": 111
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -164,13 +170,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40327,
+		"ips": 40331,
 		"common": 272
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42048,
+		"ips": 41370,
 		"common": 11
 	},
 	{
@@ -182,13 +188,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9394836,
+		"ips": 9394829,
 		"common": 59
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27898,
+		"ips": 27902,
 		"common": 279
 	},
 	{
@@ -266,7 +272,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39193,
+		"ips": 39171,
 		"common": 4
 	},
 	{
@@ -470,26 +476,26 @@
 	{
 		"name": "ri_web_proxies",
 		"category": "anonymizers",
-		"ips": 142,
-		"common": 9
+		"ips": 138,
+		"common": 8
 	},
 	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 446,
-		"common": 21
+		"ips": 404,
+		"common": 20
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 5021,
-		"common": 111
+		"ips": 5031,
+		"common": 112
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1577,
-		"common": 57
+		"ips": 1594,
+		"common": 58
 	},
 	{
 		"name": "sblam",
