@@ -39,7 +39,13 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14403,
-		"common": 13
+		"common": 14
+	},
+	{
+		"name": "cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7345,
+		"common": 1
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -81,13 +87,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 27392,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 13824,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dshield_top_1000",
@@ -123,13 +129,19 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 117511,
-		"common": 14
+		"common": 16
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9395255,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740970,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "greensnow",
@@ -147,7 +159,13 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 14263,
-		"common": 13
+		"common": 14
+	},
+	{
+		"name": "iblocklist_cruzit_web_attacks",
+		"category": "attacks",
+		"ips": 7315,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
@@ -171,25 +189,31 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 138950935,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 11
+		"common": 12
+	},
+	{
+		"name": "nullsecure",
+		"category": "reputation",
+		"ips": 29439,
+		"common": 1
 	},
 	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 1172,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -207,13 +231,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 11201,
-		"common": 7
+		"common": 8
 	},
 	{
 		"name": "threatcrowd",
@@ -225,7 +249,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 17102,
-		"common": 24
+		"common": 25
 	},
 	{
 		"name": "urandomusto_dns",
@@ -243,7 +267,7 @@
 		"name": "urandomusto_smb",
 		"category": "attacks",
 		"ips": 38,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",

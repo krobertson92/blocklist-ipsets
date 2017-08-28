@@ -50,8 +50,8 @@
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
-		"ips": 4775,
-		"common": 810
+		"ips": 4765,
+		"common": 809
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -164,7 +164,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 21087,
+		"ips": 21072,
 		"common": 39
 	},
 	{
@@ -572,7 +572,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9395267,
+		"ips": 9395255,
 		"common": 2820
 	},
 	{
@@ -1112,7 +1112,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5020,
+		"ips": 5021,
 		"common": 5
 	},
 	{
@@ -1370,8 +1370,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 277,
-		"common": 2
+		"ips": 279,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_ntp",
+		"category": "attacks",
+		"ips": 40,
+		"common": 1
 	},
 	{
 		"name": "urandomusto_smb",
@@ -1382,7 +1388,7 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 197,
+		"ips": 205,
 		"common": 1
 	},
 	{
