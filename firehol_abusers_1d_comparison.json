@@ -422,7 +422,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 441,
+		"ips": 443,
 		"common": 3
 	},
 	{
@@ -510,6 +510,12 @@
 		"common": 21
 	},
 	{
+		"name": "dshield_top_1000",
+		"category": "attacks",
+		"ips": 864,
+		"common": 1
+	},
+	{
 		"name": "esentire_crazyerror_su",
 		"category": "malware",
 		"ips": 18613,
@@ -578,8 +584,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40214,
-		"common": 4013
+		"ips": 40252,
+		"common": 4016
 	},
 	{
 		"name": "firehol_level1",
@@ -590,14 +596,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 36465,
-		"common": 742
+		"ips": 36548,
+		"common": 743
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 117482,
-		"common": 1654
+		"ips": 117485,
+		"common": 1655
 	},
 	{
 		"name": "firehol_level4",
@@ -608,8 +614,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27822,
-		"common": 3435
+		"ips": 27860,
+		"common": 3438
 	},
 	{
 		"name": "firehol_webclient",
@@ -632,7 +638,7 @@
 	{
 		"name": "gofferje_sip",
 		"category": "attacks",
-		"ips": 1096014,
+		"ips": 1096016,
 		"common": 1445
 	},
 	{
@@ -1364,19 +1370,19 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1481,
+		"ips": 1483,
 		"common": 406
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8780,
+		"ips": 8786,
 		"common": 521
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4842,
+		"ips": 4848,
 		"common": 495
 	},
 	{
@@ -1443,24 +1449,24 @@
 		"name": "sslproxies",
 		"category": "anonymizers",
 		"ips": 100,
-		"common": 74
+		"common": 60
 	},
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 1086,
-		"common": 645
+		"ips": 1079,
+		"common": 632
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6067,
+		"ips": 6088,
 		"common": 1142
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3078,
+		"ips": 3100,
 		"common": 1030
 	},
 	{
