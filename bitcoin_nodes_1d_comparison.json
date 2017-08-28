@@ -38,7 +38,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1397,
+		"ips": 1388,
 		"common": 1
 	},
 	{
@@ -63,19 +63,19 @@
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
 		"ips": 646,
-		"common": 588
+		"common": 587
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
 		"ips": 988,
-		"common": 874
+		"common": 873
 	},
 	{
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 8196,
-		"common": 4969
+		"common": 4967
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
@@ -86,20 +86,20 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 7740,
-		"common": 7740
+		"ips": 7742,
+		"common": 7742
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 30494,
-		"common": 9429
+		"ips": 30491,
+		"common": 9426
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14440,
-		"common": 9429
+		"ips": 14438,
+		"common": 9426
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -381,7 +381,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9394922,
-		"common": 40
+		"common": 39
 	},
 	{
 		"name": "firehol_proxies",
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34187,
+		"ips": 34188,
 		"common": 1
 	},
 	{
@@ -411,7 +411,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1096017,
-		"common": 208
+		"common": 207
 	},
 	{
 		"name": "gpf_comics",
@@ -423,7 +423,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 22910,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "hphosts_emd",
@@ -561,7 +561,7 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 104
+		"common": 106
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -705,7 +705,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 1500
+		"common": 1505
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -717,7 +717,7 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 22951270,
-		"common": 143
+		"common": 144
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -822,10 +822,16 @@
 		"common": 4
 	},
 	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 17102,
+		"common": 1
+	},
+	{
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 31412,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "xforce_bccs",
