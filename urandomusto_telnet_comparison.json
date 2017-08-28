@@ -3,13 +3,13 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 32352,
-		"common": 38
+		"common": 40
 	},
 	{
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
-		"common": 8
+		"common": 6
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -45,7 +45,7 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 14403,
-		"common": 69
+		"common": 67
 	},
 	{
 		"name": "dataplane_dnsrd",
@@ -93,13 +93,13 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 27392,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 14080,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "et_block",
@@ -123,13 +123,13 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 36398,
-		"common": 11
+		"common": 9
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 117499,
-		"common": 73
+		"common": 72
 	},
 	{
 		"name": "firehol_webserver",
@@ -141,25 +141,25 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 1525,
-		"common": 8
+		"common": 6
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656159907,
-		"common": 26
+		"common": 29
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 14263,
-		"common": 69
+		"common": 67
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227917160,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "iblocklist_isp_att",
@@ -225,19 +225,19 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1529339,
-		"common": 14
+		"common": 12
 	},
 	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 2757,
-		"common": 24
+		"common": 23
 	},
 	{
 		"name": "packetmail_ramnode",
 		"category": "reputation",
 		"ips": 2094,
-		"common": 13
+		"common": 11
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -249,7 +249,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 375226662,
-		"common": 41
+		"common": 42
 	},
 	{
 		"name": "sorbs_noserver",
@@ -285,7 +285,7 @@
 		"name": "stopforumspam_365d",
 		"category": "abuse",
 		"ips": 368238,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "stopforumspam_90d",
@@ -314,7 +314,7 @@
 	{
 		"name": "urandomusto_rdp",
 		"category": "attacks",
-		"ips": 175,
+		"ips": 174,
 		"common": 3
 	},
 	{
@@ -326,7 +326,7 @@
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 187,
-		"common": 4
+		"ips": 193,
+		"common": 3
 	}
 ]
