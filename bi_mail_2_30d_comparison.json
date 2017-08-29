@@ -92,25 +92,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 34374,
+		"ips": 34498,
 		"common": 120
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 2001,
+		"ips": 2006,
 		"common": 18
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 20343,
+		"ips": 20414,
 		"common": 119
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 12637,
+		"ips": 12679,
 		"common": 1
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 20987,
+		"ips": 20985,
 		"common": 8
 	},
 	{
@@ -180,39 +180,51 @@
 		"common": 2
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 2438,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 33417,
-		"common": 50
+		"ips": 33361,
+		"common": 49
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120873,
+		"ips": 120875,
 		"common": 111
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 66086,
+		"ips": 66077,
 		"common": 81
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 38429,
-		"common": 50
+		"ips": 38350,
+		"common": 49
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158603,
+		"ips": 158609,
 		"common": 114
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 84300,
+		"ips": 84282,
 		"common": 83
 	},
 	{
@@ -344,13 +356,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 41950,
+		"ips": 41845,
 		"common": 55
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 262586,
+		"ips": 262593,
 		"common": 130
 	},
 	{
@@ -368,7 +380,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 42607,
+		"ips": 42742,
 		"common": 127
 	},
 	{
@@ -380,7 +392,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9083393,
+		"ips": 9083391,
 		"common": 61
 	},
 	{
@@ -416,7 +428,7 @@
 	{
 		"name": "greensnow",
 		"category": "attacks",
-		"ips": 1457,
+		"ips": 1466,
 		"common": 8
 	},
 	{
@@ -608,8 +620,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 38235,
-		"common": 97
+		"ips": 38232,
+		"common": 98
 	},
 	{
 		"name": "nullsecure",
