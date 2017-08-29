@@ -74,7 +74,7 @@
 	{
 		"name": "bambenek_c2",
 		"category": "malware",
-		"ips": 398,
+		"ips": 426,
 		"common": 8
 	},
 	{
@@ -260,8 +260,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6576,
-		"common": 146
+		"ips": 6526,
+		"common": 147
 	},
 	{
 		"name": "botscout",
@@ -734,14 +734,14 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40432,
+		"ips": 40260,
 		"common": 479
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652282632,
-		"common": 676
+		"ips": 652282661,
+		"common": 678
 	},
 	{
 		"name": "firehol_level2",
@@ -752,7 +752,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 114883,
+		"ips": 114832,
 		"common": 3479
 	},
 	{
@@ -771,7 +771,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 34740866,
-		"common": 2672
+		"common": 2674
 	},
 	{
 		"name": "fullbogons",
@@ -819,7 +819,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 26950,
-		"common": 187
+		"common": 189
 	},
 	{
 		"name": "hphosts_exp",
@@ -897,7 +897,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
 		"ips": 656159907,
-		"common": 1650
+		"common": 1651
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -927,7 +927,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227883373,
-		"common": 367
+		"common": 368
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -1017,7 +1017,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762687312,
-		"common": 688
+		"common": 689
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1257,13 +1257,13 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 34512264,
-		"common": 2000
+		"common": 2001
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5019,
-		"common": 162
+		"ips": 5022,
+		"common": 164
 	},
 	{
 		"name": "ransomware_locky_c2",
@@ -1272,16 +1272,22 @@
 		"common": 4
 	},
 	{
+		"name": "ransomware_locky_ps",
+		"category": "malware",
+		"ips": 3,
+		"common": 2
+	},
+	{
 		"name": "ransomware_online",
 		"category": "malware",
-		"ips": 135,
-		"common": 135
+		"ips": 137,
+		"common": 137
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 323,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "ri_connect_proxies",
@@ -1412,7 +1418,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3110,
+		"ips": 3109,
 		"common": 1
 	},
 	{
