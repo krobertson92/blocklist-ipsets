@@ -6,6 +6,12 @@
 		"common": 13
 	},
 	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5268567,
+		"common": 1
+	},
+	{
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30151694,
@@ -15,12 +21,12 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 5109,
-		"common": 34
+		"common": 33
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 858,
+		"ips": 856,
 		"common": 1
 	},
 	{
@@ -92,31 +98,31 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 120877,
+		"ips": 120865,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 19787,
+		"ips": 19786,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 38550,
+		"ips": 38785,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 158608,
+		"ips": 158598,
 		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 84173,
+		"ips": 84146,
 		"common": 1
 	},
 	{
@@ -201,7 +207,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 24580703,
-		"common": 18
+		"common": 17
 	},
 	{
 		"name": "et_compromised",
@@ -213,7 +219,7 @@
 		"name": "et_dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 14
+		"common": 13
 	},
 	{
 		"name": "et_spamhaus",
@@ -224,13 +230,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42026,
+		"ips": 41119,
 		"common": 1
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 262592,
+		"ips": 262591,
 		"common": 4
 	},
 	{
@@ -315,7 +321,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346595898,
-		"common": 13
+		"common": 14
 	},
 	{
 		"name": "iblocklist_level3",
@@ -476,14 +482,14 @@
 	{
 		"name": "urandomusto_http",
 		"category": "attacks",
-		"ips": 344,
+		"ips": 348,
 		"common": 1
 	},
 	{
 		"name": "urandomusto_ssh",
 		"category": "attacks",
-		"ips": 268,
-		"common": 3
+		"ips": 276,
+		"common": 2
 	},
 	{
 		"name": "urandomusto_unspecified",
