@@ -92,7 +92,7 @@
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 14481,
+		"ips": 14475,
 		"common": 1
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "dataplane_dnsrd",
 		"category": "attacks",
-		"ips": 255,
+		"ips": 253,
 		"common": 9
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "dataplane_dnsversion",
 		"category": "attacks",
-		"ips": 155,
+		"ips": 153,
 		"common": 7
 	},
 	{
@@ -380,7 +380,7 @@
 	{
 		"name": "dataplane_sipquery",
 		"category": "attacks",
-		"ips": 468,
+		"ips": 466,
 		"common": 48
 	},
 	{
@@ -404,7 +404,7 @@
 	{
 		"name": "dataplane_vncrfb",
 		"category": "attacks",
-		"ips": 447,
+		"ips": 446,
 		"common": 11
 	},
 	{
@@ -608,8 +608,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 40443,
-		"common": 922
+		"ips": 40441,
+		"common": 924
 	},
 	{
 		"name": "firehol_level1",
@@ -638,8 +638,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 27964,
-		"common": 905
+		"ips": 27962,
+		"common": 907
 	},
 	{
 		"name": "firehol_webclient",
@@ -1281,25 +1281,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 24
+		"common": 30
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1551,
-		"common": 508
+		"ips": 1553,
+		"common": 510
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 8809,
+		"ips": 8808,
 		"common": 827
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 4799,
-		"common": 754
+		"ips": 4798,
+		"common": 755
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1356,27 +1356,21 @@
 		"common": 3
 	},
 	{
-		"name": "sslproxies",
-		"category": "anonymizers",
-		"ips": 99,
-		"common": 1
-	},
-	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 996,
+		"ips": 984,
 		"common": 12
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 6195,
+		"ips": 6196,
 		"common": 35
 	},
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3109,
+		"ips": 3110,
 		"common": 28
 	},
 	{
@@ -1400,8 +1394,8 @@
 	{
 		"name": "stopforumspam_30d",
 		"category": "abuse",
-		"ips": 57044,
-		"common": 432
+		"ips": 57607,
+		"common": 437
 	},
 	{
 		"name": "stopforumspam_365d",
@@ -1418,8 +1412,8 @@
 	{
 		"name": "stopforumspam_90d",
 		"category": "abuse",
-		"ips": 154050,
-		"common": 684
+		"ips": 153771,
+		"common": 691
 	},
 	{
 		"name": "stopforumspam_toxic",
