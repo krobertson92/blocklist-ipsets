@@ -1285,7 +1285,7 @@
 [ -f 'jigsaw_attacks.ipset' ] && /usr/bin/touch --date=@1459665960 'jigsaw_attacks.ipset'
 [ -f 'jigsaw_malware.ipset' ] && /usr/bin/touch --date=@1459665962 'jigsaw_malware.ipset'
 [ -f 'lashback_ubl.ipset' ] && /usr/bin/touch --date=@1504115792 'lashback_ubl.ipset'
-[ -f 'malc0de.ipset' ] && /usr/bin/touch --date=@1504099021 'malc0de.ipset'
+[ -f 'malc0de.ipset' ] && /usr/bin/touch --date=@1504185421 'malc0de.ipset'
 [ -f 'malwaredomainlist.ipset' ] && /usr/bin/touch --date=@1498776722 'malwaredomainlist.ipset'
 [ -f 'maxmind_proxy_fraud.ipset' ] && /usr/bin/touch --date=@1473500180 'maxmind_proxy_fraud.ipset'
 [ -f 'myip.ipset' ] && /usr/bin/touch --date=@1504180854 'myip.ipset'
