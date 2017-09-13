@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Wed Sep 13 20:50:09 UTC 2017.
+The following list was automatically generated on Wed Sep 13 20:53:53 UTC 2017.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -435,7 +435,7 @@ esentire_burmundisoul_ru|Ursnif Variant CnC|ipv4 hash:ip|disabled|updated every 
 [hphosts_hfs](http://iplists.firehol.org/?ipset=hphosts_hfs)|[hpHosts](http://hosts-file.net/?s=Download) sites spamming the hpHosts forums (and not meeting any other classification criteria) listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.|ipv4 hash:ip|262 unique IPs|updated every 1 day  from [this link](http://hosts-file.net/hfs.txt)
 [hphosts_hjk](http://iplists.firehol.org/?ipset=hphosts_hjk)|[hpHosts](http://hosts-file.net/?s=Download) hijack sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.|ipv4 hash:ip|57 unique IPs|updated every 1 day  from [this link](http://hosts-file.net/hjk.txt)
 [hphosts_mmt](http://iplists.firehol.org/?ipset=hphosts_mmt)|[hpHosts](http://hosts-file.net/?s=Download) sites involved in misleading marketing (e.g. fake Flash update adverts) listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.|ipv4 hash:ip|1148 unique IPs|updated every 1 day  from [this link](http://hosts-file.net/mmt.txt)
-[hphosts_pha](http://iplists.firehol.org/?ipset=hphosts_pha)|[hpHosts](http://hosts-file.net/?s=Download) illegal pharmacy sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.|ipv4 hash:ip|1826 unique IPs|updated every 1 day  from [this link](http://hosts-file.net/pha.txt)
+[hphosts_pha](http://iplists.firehol.org/?ipset=hphosts_pha)|[hpHosts](http://hosts-file.net/?s=Download) illegal pharmacy sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.|ipv4 hash:ip|1835 unique IPs|updated every 1 day  from [this link](http://hosts-file.net/pha.txt)
 [hphosts_psh](http://iplists.firehol.org/?ipset=hphosts_psh)|[hpHosts](http://hosts-file.net/?s=Download) phishing sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.|ipv4 hash:ip|31815 unique IPs|updated every 1 day  from [this link](http://hosts-file.net/psh.txt)
 [hphosts_wrz](http://iplists.firehol.org/?ipset=hphosts_wrz)|[hpHosts](http://hosts-file.net/?s=Download) warez/piracy sites listed in the hpHosts database. The maintainer's file contains hostnames, which have been DNS resolved to IP addresses.|ipv4 hash:ip|887 unique IPs|updated every 1 day  from [this link](http://hosts-file.net/wrz.txt)
 [iblocklist_abuse_palevo](http://iplists.firehol.org/?ipset=iblocklist_abuse_palevo)|palevotracker.abuse.ch IP blocklist.|ipv4 hash:net|12 subnets, 12 unique IPs|updated every 12 hours  from [this link](http://list.iblocklist.com/?list=erqajhwrxiuvjxqrrwfj&fileformat=p2p&archiveformat=gz)
